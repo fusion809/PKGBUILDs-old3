@@ -2,7 +2,7 @@
 # Maintainer: Brenton Horne <brentonhorne77 at gmail dot com>
 
 pkgname=atom-editor-beta
-_pkgrel=4
+_pkgrel=5
 _pkgver=1.7.0
 pkgver="${_pkgver}.${_pkgrel}"
 pkgrel=1
@@ -17,7 +17,7 @@ conflicts=('atom-editor-beta-bin')
 install=atom.install
 source=("https://github.com/atom/atom/archive/v${_pkgver}-beta${_pkgrel}.tar.gz"
 "electron-freetype-pull-10983.patch")
-sha256sums=('15378582d4afa0c31289e8042c983233163701104856af872c548f56e69ffca3'
+sha256sums=('16f1c45d97569d15febd82c58ce6b100304dfc35ffbdfcb930164679f207397a'
             'f2b624e2483ad663b78896742dfa96087c53667567ab3a6bc9a6b634df3b5770')
 
 prepare() {
