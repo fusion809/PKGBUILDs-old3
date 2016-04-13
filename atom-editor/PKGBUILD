@@ -16,7 +16,7 @@ install=atom.install
 source=("v${pkgver}.tar.gz::https://codeload.github.com/atom/atom/tar.gz/v${pkgver}"
 "electron-freetype-pull-10983.patch")
 sha256sums=('1629c6688bccf7180482b4b5ccacf0d68d9b33172007d2c05c6458da80be046a'
-            'f2b624e2483ad663b78896742dfa96087c53667567ab3a6bc9a6b634df3b5770')
+            '706ae0e90cf6c7482a547ef1603114a741f291bb88e7217aa8d0bbbb996d738c')
 
 prepare() {
   cd "$srcdir/${_pkgname}-$pkgver"
