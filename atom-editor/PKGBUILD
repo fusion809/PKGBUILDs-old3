@@ -20,7 +20,8 @@ prepare() {
   cd "$srcdir/${_pkgname}-$pkgver"
 
   sed -i -e "/exception-reporting/d" \
-	       -e "/metrics/d" package.json
+	       -e "/metrics/d" \
+         -e 's/"command-palette"/"browser-plus": "0.0.60",\n     "command-palette"/g' package.json
 
   chmod 755 -R package.json
 
