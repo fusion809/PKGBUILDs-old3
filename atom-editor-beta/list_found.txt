@@ -1,2226 +1,2226 @@
-a52dec 0.7.4-8
-aalib 1.4rc5-11
-abs 2.4.4-2
-accerciser 3.14.0-3
-accountsservice 0.6.40-2
-acl 2.2.52-2
-acpid 2.0.27-1
-adwaita-icon-theme 3.20-1
-aisleriot 3.20.1-1
-akonadi 16.04.0-1
-akonadi-calendar 16.04.0-1
-akonadi-contact 16.04.0-1
-akonadi-mime 16.04.0-1
-akonadi-notes 16.04.0-1
-akonadi-search 16.04.0-1
-akonadi-socialutils 16.04.0-1
-akonadiconsole 16.04.0-2
-akregator 16.04.0-2
-alienarena 7.66-2
-alienarena-data 7.66-1
-alsa-lib 1.1.1-1
-alsa-plugins 1.1.1-1
-alsa-utils 1.1.1-1
-analitza 16.04.0-1
-anjuta 3.20.0-1
-apache 2.4.20-1
-apache-ant 1.9.7-1
-apr 1.5.2-1
-apr-util 1.5.4-2
-arb 2.8.1-1
-arch-install-scripts 15-1
-archiso 25-1
-archlinux-keyring 20160402-1
-aria2 1.22.0-1
-ark 16.04.0-1
-arpack 3.3.0-1
-artikulate 16.04.0-1
-asciidoc 8.6.9-2
-aspell 0.60.6.1-4
-at-spi2-atk 2.20.1-1
-at-spi2-core 2.20.1-1
-atk 2.20.0-1
-atkmm 2.24.2-2
-atlas-lapack-base 3.10.2-3
-atomix 3.20.0-1
-attica-qt4 0.4.2-3
-attica-qt5 5.21.0-1
-attr 2.4.47-1
-augeas 1.4.0-1
-autoconf 2.69-2
-autogen 5.18.7-1
-automake 1.15-1
-avahi 0.6.32-2
-avidemux-cli 2.5.6-14
-avogadro 1.1.1-8
-babl 0.1.14-1
-baloo 5.21.0-1
-baloo-widgets 16.04.0-1
-bamf 0.5.1-1
-baobab 3.20.1-1
-bash 4.3.042-4
-bbswitch 0.8-46
-bc 1.06.95-1
-bijiben 3.20.0-1
-bin86 0.16.21-1
-bind-tools 9.10.3.P4-1
-binutils 2.26-3
-bison 3.0.4-1
-blinken 16.04.0-1
-blogilo 16.04.0-2
-bluedevil 1:5.6.3-1
-bluefish 2.2.8-1
-bluez 5.39-1
-bluez-libs 5.39-1
-bluez-qt 5.21.0-1
-bomber 16.04.0-1
-boost 1.60.0-4
-boost-libs 1.60.0-4
-bovo 16.04.0-1
-brasero 3.12.1-1
-breeze 5.6.3-1
-breeze-gtk 5.6.3-1
-breeze-icons 5.21.0-1
-brial 0.8.4.3-2
-bridge-utils 1.5-2
-brltty 5.3.1-3
-bullet 2.83.7-1
-bumblebee 3.2.1-11
-bzip2 1.0.6-5
-bzr 2.7.0-1
-c-ares 1.11.0-1
-ca-certificates 20150402-1
-ca-certificates-cacert 20140824-2
-ca-certificates-mozilla 3.23-3
-ca-certificates-utils 20150402-1
-cabextract 1.6-1
-cairo 1.14.6-1
-cairo-perl 1.106-1
-cairomm 1.12.0-2
-caja 1.12.6-1
-calendarsupport 16.04.0-1
-cantarell-fonts 1:0.0.24-1
-cantor 16.04.0-1
-cargo 0.10.0-2
-caribou 0.4.20-1
-cddb-py 1.4-7
-cddlib 094h-2
-cdparanoia 10.2-5
-cdrdao 1.2.3-8
-cdrkit 1.1.11-3
-celt 0.11.3-2
-celt0.5.1 0.5.1.3-3
-ceph 0.94.5-3
-cfitsio 3.370-3
-cheese 3.20.1-1
-chemical-mime-data 0.1.94-7
-chmlib 0.40-4
-chromaprint 1.3.1-1
-chromium 50.0.2661.75-1
-cifs-utils 6.5-1
-cinnamon 3.0.1-1
-cinnamon-control-center 3.0.0-1
-cinnamon-desktop 3.0.0-1
-cinnamon-menus 3.0.0-1
-cinnamon-screensaver 3.0.0-1
-cinnamon-session 3.0.0-1
-cinnamon-settings-daemon 3.0.0-1
-cinnamon-translations 3.0.0-1
-cjs 3.0.0-1
-clang 3.7.1-1
-classpath 0.99-3
-cliquer 1.21-1
-cln 1.3.4-2
-clucene 2.3.3.4-9
-clutter 1.26.0-1
-clutter-gst 3.0.18-1
-clutter-gst2 2.0.18-1
-clutter-gtk 1.8.0-1
-cmake 3.5.2-1
-cmark 0.25.2-1
-cogl 1.22.0+11+g81ab4a3-1
-colord 1.3.2-1
-colord-gtk 0.1.26-2
-compositeproto 0.4.2-3
-convertlit 1.8-7
-coreutils 8.25-1
-cracklib 2.9.6-1
-cronie 1.5.0-1
-cryptsetup 1.7.1-1
-ctags 5.8-5
-cuneiform 1.1.0-14
-cups 2.1.3-1
-cups-filters 1.8.3-2
-cups-pk-helper 0.2.6-1
-curl 7.48.0-1
-cysignals 1.1.1-1
-cython 0.24-1
-cython2 0.24-1
-damageproto 1.2.1-3
-db 5.3.28-3
-dbus 1.10.8-1
-dbus-glib 0.106-1
-dcadec 0.2.0-1
-dconf 0.26.0-1
-dconf-editor 3.20.1-1
-deepin-account-faces 1.0.10-1
-deepin-api 3.0.6-1
-deepin-artwork-themes 15.12.2-2
-deepin-control-center 3.0.10-1
-deepin-daemon 3.0.11-3
-deepin-dbus-factory 3.0.2-1
-deepin-desktop 3.0.6-1
-deepin-desktop-base 2016.01.29-1
-deepin-desktop-schemas 3.0.3-2
-deepin-dock 3.0.7-1
-deepin-file-manager 0.1.11-3
-deepin-game 2014.2-3
-deepin-grub2-themes 1.0.0-2
-deepin-gtk-theme 15.12.6-1
-deepin-icon-theme 15.12.26-1
-deepin-launcher 3.0.7-1
-deepin-menu 3.0.2-1
-deepin-metacity 3.18.1.11-1
-deepin-movie 2.3.0.20151102-1
-deepin-music 2.3.0.20150814-1
-deepin-mutter 3.18.2.7-1
-deepin-nautilus-properties 3.14.3-1
-deepin-notifications 2.3.5-1
-deepin-qml-widgets 2.3.2-1
-deepin-screenshot 3.1.7-1
-deepin-session-ui 3.0.9-1
-deepin-social-sharing 1.1.2-1
-deepin-sound-theme 15.10.0-2
-deepin-terminal 1.1.4-1
-deepin-wm 1.0.5-1
-deepin-wm-switcher 1.0.1-1
-deluge 1.3.12-1
-desktop-file-utils 0.22-1
-dev86 0.16.21-1
-devhelp 3.20.0-1
-device-mapper 2.02.149-1
-devil 1.7.8-21
-devtools 20151129-1
-dhclient 4.3.4-1
-dhcpcd 6.10.2-1
-dialog 1:1.3_20160209-1
-diffutils 3.3-2
-djvulibre 3.5.27-2
-dkms 2.2.0.3+git151023-10
-dleyna-connector-dbus 0.2.0-2
-dleyna-core 0.5.0-1
-dleyna-renderer 0.5.0-1
-dleyna-server 0.5.0-1
-dmidecode 3.0-1
-dmxproto 2.3.1-3
-dnsmasq 2.75-1
-dnssec-anchors 20150403-1
-docbook-xml 4.5-6
-docbook-xsl 1.79.1-1
-docker 1:1.10.3-1
-dolphin 16.04.0-1
-dolphin-plugins 16.04.0-1
-dolphinpart4 16.04.0-1
-dosfstools 3.0.28-1
-dotconf 1.3-4
-dragon 16.04.0-1
-dri2proto 2.8-2
-dri3proto 1.0-1
-drkonqi 5.6.3-1
-drumstick 1.0.2-1
-dvd+rw-tools 7.1-7
-e2fsprogs 1.42.13-1
-ebook-tools 0.2.2-3
-ebtables 2.0.10_4-6
-ecl 16.0.0-1
-eclib 20160206-4
-eclipse-common 4.5.2-1
-eclipse-cpp 4.5.2-1
-efibootmgr 0.12-1
-efivar 0.21-1
-efl 1.17.0-1
-elementary 1.17.0-1
-elfutils 0.166-1
-emacs 24.5-2
-empathy 3.12.11-1
-enca 1.18-1
-enchant 1.6.0-7
-eog 3.20.1-1
-epiphany 3.20.1-1
-espeak 1.48.04-2
-evas_generic_loaders 1.17.0-2
-eventviews 16.04.0-1
-evince 3.20.0-1
-evolution 3.20.1-1
-evolution-data-server 3.20.1-1
-exempi 2.2.2-2
-exiv2 0.25-3
-exo 0.10.7-1
-expac 6-1
-expat 2.1.1-1
-expect 5.45-4
-extra-cmake-modules 5.21.0-1
-faac 1.28-5
-faad2 2.7-4
-faenza-icon-theme 1.3.1-4
-fakeroot 1.20.2-1
-farstream 0.2.8-1
-fcgi 2.4.0-11
-ffmpeg 1:3.0.1-1
-ffmpeg2.8 2.8.6-1
-ffmpegthumbnailer 2.1.1-1
-ffmpegthumbs 16.04.0-1
-fftw 3.3.4-1
-file 5.26-1
-file-roller 3.20.1-1
-filelight 16.04.0-1
-filesystem 2015.09-1
-findutils 4.6.0-1
-firefox 45.0.2-1
-five-or-more 3.20.0-1
-fixesproto 5.0-3
-flac 1.3.1-3
-flashplugin 11.2.202.616-1
-flattr-icon-theme 1.3-2
-flex 2.6.0-2
-flint 2.5.2-8
-flintqs 1:1.0-1
-fltk 1.3.3-5
-fluidsynth 1.1.6-4
-folks 0.11.2-1
-fontconfig 2.11.95-1
-fontsproto 2.1.3-1
-foomatic-db 3:20160416-1
-foomatic-db-engine 4:4.0.12-2
-foomatic-db-gutenprint 5.2.11-3
-foomatic-db-gutenprint-ppds 5.2.11-3
-four-in-a-row 3.20.0-1
-frameworkintegration 5.21.0-1
-freeglut 3.0.0-1
-freerdp 1:1.2.0_20160107-6
-freetype2 2.6.3-1
-fribidi 0.19.7-1
-fuse 2.9.5-1
-gamin 0.1.10-8
-gap 4.8.3-2
-garcon 0.4.0-1
-gawk 4.1.3-1
-gc 7.4.2-4
-gcc-fortran 5.3.0-5
-gcc-libs-multilib 5.3.0-5
-gcc-multilib 5.3.0-5
-gconf 3.2.6-3
-gcr 3.20.0-1
-gd 2.1.1-3
-gdal 2.0.2-4
-gdb 7.11-1
-gdbm 1.11-1
-gdk-pixbuf2 2.34.0-1
-gdl 3.20.0-1
-gdm 3.20.1-1
-geany 1.27-1
-gedit 3.20.1-1
-gedit-code-assistance 3.16.0-1
-gegl 0.3.6-1
-gegl02 0.2.0-4
-geoclue2 2.4.3-1
-geocode-glib 3.20.1-1
-geoip 1.6.6-2
-geoip-database 20160301-2
-geos 3.5.0-2
-gettext 0.19.7-1
-gf2x 1.1-2
-gfan 0.5-2
-gfbgraph 0.2.3-1
-ghc 7.10.3-1
-ghostscript 9.19-1
-giflib 5.1.2-1
-gimp 2.8.16-1
-git 2.8.0-1
-gitg 3.20.0-1
-givaro 3.8.0-2
-gjs 1.45.3-1
-gl2ps 1.3.9-1
-glade 3.20.0-1
-glew 1.13.0-1
-glib-networking 2.48.0-1
-glib-perl 1.321-1
-glib2 2.48.0-1
-glibc 2.23-1
-glibmm 2.48.1-1
-glpk 4.60-1
-glproto 1.4.17-1
-glu 9.0.0-4
-gmime 2.6.20-2
-gmp 6.1.0-3
-gmp-ecm 7.0-1
-gnome-2048 3.20.1-1
-gnome-backgrounds 3.20-1
-gnome-bluetooth 3.18.3-1
-gnome-builder 3.20.0-1
-gnome-calculator 3.20.0-1
-gnome-calendar 3.20.1-1
-gnome-characters 3.20.1-1
-gnome-chess 3.20.0-1
-gnome-clocks 3.20.0-1
-gnome-code-assistance 3.16.0-4
-gnome-color-manager 3.20.0-1
-gnome-contacts 3.19.91-1
-gnome-control-center 3.20.1-1
-gnome-desktop 1:3.20.1-1
-gnome-devel-docs 3.20.1-1
-gnome-dictionary 3.20.0-1
-gnome-disk-utility 3.20.1-1
-gnome-documents 3.20.0-1
-gnome-font-viewer 3.20.0-1
-gnome-getting-started-docs 3.20.0-1
-gnome-icon-theme 3.12.0-3
-gnome-icon-theme-symbolic 3.12.0-3
-gnome-keyring 1:3.20.0-1
-gnome-klotski 3.20.1-1
-gnome-logs 3.20.1-1
-gnome-mahjongg 3.20.0-1
-gnome-maps 3.20.1-1
-gnome-menus 3.13.3-2
-gnome-mime-data 2.18.0-7
-gnome-mines 3.20.0-1
-gnome-music 3.20.0-1
-gnome-nettool 3.8.1-2
-gnome-nibbles 3.20.1-1
-gnome-online-accounts 3.20.1-1
-gnome-online-miners 3.20.0-1
-gnome-photos 3.20.1-1
-gnome-robots 3.20.1-1
-gnome-screenshot 3.18.0-1
-gnome-session 3.20.1-1
-gnome-settings-daemon 3.20.1-1
-gnome-shell 3.20.1-1
-gnome-shell-extensions 3.20.0-1
-gnome-sound-recorder 3.19.91-1
-gnome-sudoku 3.20.0-1
-gnome-system-log 3.9.90-1
-gnome-system-monitor 3.20.1-1
-gnome-taquin 3.20.1-1
-gnome-terminal 3.20.1-1
-gnome-tetravex 3.20.0-1
-gnome-themes-standard 3.20-1
-gnome-tweak-tool 3.20.0-1
-gnome-user-docs 3.20.1-1
-gnome-user-share 3.18.1-1
-gnome-video-effects 0.4.1-1
-gnome-weather 3.20.0-1
-gnugo 3.8-5
-gnupg 2.1.11-1
-gnuplot 5.0.3-1
-gnurl 7.40.0-2
-gnutls 3.4.11-1
-go 2:1.6.2-1
-go-tools 2:1.6.2-1
-gobject-introspection 1.48.0-1
-gobject-introspection-runtime 1.48.0-1
-gocr 0.50-2
-gom 0.3.2-1
-goocanvas 2.0.2-1
-goocanvas1 1.0.0-3
-gperf 3.0.4-6
-gperftools 2.5-1
-gpgme 1.6.0-2
-gpgmepp 16.04.0-1
-gpicview 0.2.5-1
-gpm 1.20.7-6
-granatier 16.04.0-1
-grantlee-qt4 0.5.1-3
-grantlee-qt5 5.1.0-1
-grantleetheme 16.04.0-2
-graphene 1.2.10-1
-graphicsmagick 1.3.23-2
-graphite 1:1.3.8-1
-graphviz 2.38.0-11
-grep 2.25-1
-grilo 0.3.0-1
-grilo-plugins 0.3.1-1
-groff 1.22.3-6
-grub 1:2.02.beta2-6
-gsettings-desktop-schemas 3.20.0-1
-gsettings-qt 0.1.20151104-2
-gsfonts 20150811-1
-gsl 2.1-1
-gsm 1.0.14-1
-gsoap 2.8.30-1
-gsound 1.0.2-1
-gspell 1.0.1-1
-gssdp 0.14.14-1
-gst-plugins-bad 1.8.1-1
-gst-plugins-base 1.8.1-1
-gst-plugins-base-libs 1.8.1-1
-gst-plugins-good 1.8.1-1
-gst-python 1.8.1-1
-gstreamer 1.8.1-1
-gstreamer0.10 0.10.36-4
-gstreamer0.10-bad 0.10.23-15
-gstreamer0.10-bad-plugins 0.10.23-15
-gstreamer0.10-base 0.10.36-3
-gstreamer0.10-base-plugins 0.10.36-3
-gstreamer0.10-good 0.10.31-10
-gstreamer0.10-good-plugins 0.10.31-10
-gstreamer0.10-python 0.10.22-2
-gstreamer0.10-ugly 0.10.19-16
-gstreamer0.10-ugly-plugins 0.10.19-16
-gtk-doc 1.25-1
-gtk-engine-murrine 0.98.2-2
-gtk-engines 2.21.0-2
-gtk-update-icon-cache 3.20.3-1
-gtk-vnc 0.5.4-1
-gtk-xfce-engine 2.10.1-1
-gtk2 2.24.30-1
-gtk2-perl 1.2498-1
-gtk3 3.20.3-1
-gtkglarea 2.1.0-1
-gtkglext 1.2.0-10
-gtkimageview 1.6.4-4
-gtkmm 2.24.4-2
-gtkmm3 3.20.1-1
-gtksourceview2 2.10.5-3
-gtksourceview3 3.20.1-1
-gtkspell 2.0.16-3
-gtkspell3 3.0.8-1
-gts 0.7.6-3
-gucharmap 8.0.0-1
-guile 2.0.11-3
-guile1.8 1.8.8-4
-gupnp 0.20.16-1
-gupnp-av 0.12.8-1
-gupnp-dlna 0.10.4-1
-gutenprint 5.2.11-3
-gvfs 1.28.1-1
-gvfs-afc 1.28.1-1
-gvfs-goa 1.28.1-1
-gvfs-google 1.28.1-1
-gvfs-gphoto2 1.28.1-1
-gvfs-mtp 1.28.1-1
-gvfs-nfs 1.28.1-1
-gvfs-smb 1.28.1-1
-gwenview 16.04.0-1
-gzip 1.7-1
-hardening-wrapper 10-1
-harfbuzz 1.2.6-1
-harfbuzz-icu 1.2.6-1
-hdf5 1.8.15_patch1-1
-hexchat 2.12.0-1
-hicolor-icon-theme 0.15-1
-hitori 3.20.0-1
-hspell 1.3-1
-htdig 3.2.0b6-11
-http-parser 2.7.0-1
-hunspell 1.3.4-1
-hwids 20160306-1
-hwloc 1.11.2-2
-hyphen 2.8.8-1
-iagno 3.20.1-1
-iana-etc 20160314-1
-iasl 20160212-1
-icedtea-web 1.6.2-1
-icon-naming-utils 0.8.90-3
-icu 57.1-1
-idnkit 1.0-3
-igraph 0.7.1-5
-ilmbase 2.2.0-2
-imagemagick 6.9.3.8-1
-imake 1.0.7-1
-iml 1.0.5-1
-imlib 1.9.15-15
-imlib2 1.4.8-1
-incidenceeditor 16.04.0-1
-inetutils 1.9.4-2
-iniparser 4.0-2
-inkscape 0.91-17
-inputproto 2.3.2-1
-intel-tbb 4.4_20160128-1
-intltool 0.51.0-1
-iproute2 4.5.0-2
-iptables 1.6.0-1
-iputils 20160308.0db72a4-1
-ipython 4.2.0-2
-ipython2 4.2.0-2
-ipython2-notebook 4.1.0-4
-iso-codes 3.67-1
-itstool 2.0.2-1
-jack 0.124.1-6
-jansson 2.7-1
-jasper 1.900.1-14
-java-environment-common 2-2
-java-runtime-common 2-2
-jdk7-openjdk 7.u99_2.6.5-1
-jemalloc 4.1.0-1
-jfsutils 1.1.15-4
-joe 4.0-2
-jre7-openjdk 7.u99_2.6.5-1
-jre7-openjdk-headless 7.u99_2.6.5-1
-jre8-openjdk 8.u92-1
-jre8-openjdk-headless 8.u92-1
-js 24.2.0-3
-js17 17.0.0-3
-jshon 20131105-1
-json-c 0.12-2
-json-glib 1.2.0-1
-jsoncpp 1.7.2-1
-julia 2:0.4.5-1
-jupyter 4.1.0-4
-kaccounts-integration 16.04.0-1
-kaccounts-providers 16.04.0-1
-kactivities 5.21.0-1
-kactivitymanagerd 5.6.3-1
-kaddressbook 16.04.0-2
-kalarm 16.04.0-2
-kalarmcal 16.04.0-1
-kalgebra 16.04.0-1
-kamera 16.04.0-1
-kanagram 16.04.0-1
-kapman 16.04.0-1
-kapptemplate 16.04.0-1
-karchive 5.21.0-1
-kate 16.04.0-1
-katepart4 4.14.3-4
-katomic 16.04.0-1
-kauth 5.21.0-1
-kbd 2.0.3-1
-kblackbox 16.04.0-1
-kblocks 16.04.0-1
-kblog 16.04.0-1
-kbookmarks 5.21.0-1
-kbounce 16.04.0-1
-kbproto 1.0.7-1
-kbreakout 16.04.0-1
-kbruch 16.04.0-1
-kcalc 16.04.0-1
-kcalcore 16.04.0-1
-kcalutils 16.04.0-2
-kcharselect 16.04.0-1
-kcmutils 5.21.0-1
-kcodecs 5.21.0-1
-kcolorchooser 16.04.0-1
-kcompletion 5.21.0-1
-kconfig 5.21.0-1
-kconfigwidgets 5.21.0-1
-kcontacts 16.04.0-1
-kcoreaddons 5.21.0-1
-kcrash 5.21.0-1
-kcron 16.04.0-1
-kdbusaddons 5.21.0-1
-kde-applications-meta 16.04-1
-kde-cli-tools 5.6.3-1
-kde-dev-scripts 16.04.0-1
-kde-gtk-config 5.6.3-1
-kde-meta-kdeaccessibility 16.04-1
-kde-meta-kdeadmin 16.04-1
-kde-meta-kdebase 16.04-1
-kde-meta-kdeedu 16.04-1
-kde-meta-kdegames 16.04-1
-kde-meta-kdegraphics 16.04-1
-kde-meta-kdemultimedia 16.04-1
-kde-meta-kdenetwork 16.04-1
-kde-meta-kdepim 16.04-1
-kde-meta-kdesdk 16.04-1
-kde-meta-kdeutils 16.04-1
-kde-meta-kdewebdev 16.04-1
-kde-syndication 16.04.0-1
-kdeaccessibility-jovie 16.04.0-1
-kdeaccessibility-kaccessible 16.04.0-1
-kdeaccessibility-kmag 16.04.0-1
-kdeaccessibility-kmousetool 16.04.0-1
-kdeaccessibility-kmouth 16.04.0-1
-kdeadmin-kuser 16.04.0-1
-kdebase-kdepasswd 16.04.0-1
-kdebase-kdialog 16.04.0-1
-kdebase-keditbookmarks 16.04.0-1
-kdebase-kfind 16.04.0-1
-kdebase-konq-plugins 16.04.0-1
-kdebase-konqueror 16.04.0-1
-kdebase-lib 16.04.0-1
-kdebase-runtime 16.04.0-1
-kdebindings-python-common 4.14.3-5
-kdebindings-python2 4.14.3-5
-kdebugsettings 16.04.0-1
-kdeclarative 5.21.0-1
-kdecoration 5.6.3-1
-kded 5.21.0-1
-kdeedu-data 16.04.0-1
-kdeedu-kalzium 16.04.0-1
-kdeedu-ktouch 16.04.0-1
-kdegames-kajongg 16.04.0-1
-kdegames-kgoldrunner 16.04.0-1
-kdegames-kigo 16.04.0-1
-kdegames-kolf 16.04.0-1
-kdegames-konquest 16.04.0-1
-kdegames-kreversi 16.04.0-1
-kdegames-ksirk 16.04.0-1
-kdegames-ksnakeduel 16.04.0-1
-kdegames-kspaceduel 16.04.0-1
-kdegames-ksudoku 16.04.0-1
-kdegames-kubrick 16.04.0-1
-kdegames-lskat 16.04.0-1
-kdegames-palapeli 16.04.0-1
-kdegraphics-kolourpaint 16.04.0-1
-kdegraphics-ksaneplugin 16.04.0-1
-kdegraphics-mobipocket 16.04.0-1
-kdegraphics-okular 16.04.0-1
-kdegraphics-strigi-analyzer 16.04.0-1
-kdegraphics-svgpart 16.04.0-1
-kdegraphics-thumbnailers 16.04.0-1
-kdelibs 4.14.19-1
-kdelibs4support 5.21.0-1
-kdemultimedia-audiocd-kio 16.04.0-1
-kdemultimedia-juk 16.04.0-1
-kdemultimedia-kmix 16.04.0-1
-kdemultimedia-kscd 16.04.0-1
-kdemultimedia-mplayerthumbs 16.04.0-1
-kdenetwork-filesharing 16.04.0-1
-kdenetwork-kget 16.04.0-1
-kdenetwork-kopete 16.04.0-1
-kdenetwork-kppp 16.04.0-1
-kdenetwork-strigi-analyzers 16.04.0-1
-kdenetwork-zeroconf-ioslave 16.04.0-1
-kdenlive 16.04.0-2
-kdepim-addons 16.04.0-2
-kdepim-apps-libs 16.04.0-1
-kdepim-common 16.04.0-2
-kdepim-runtime 16.04.0-1
-kdepimlibs4 4.14.10-7
-kdeplasma-addons 5.6.3-1
-kdesdk-cervisia 16.04.0-1
-kdesdk-dev-utils 16.04.0-1
-kdesdk-kcachegrind 16.04.0-1
-kdesdk-strigi-analyzers 16.04.0-1
-kdesdk-thumbnailers 16.04.0-1
-kdesignerplugin 5.21.0-1
-kdesu 5.21.0-1
-kdeutils-kdf 16.04.0-1
-kdeutils-kgpg 16.04.0-1
-kdeutils-kremotecontrol 16.04.0-1
-kdeutils-sweeper 16.04.0-1
-kdevelop 4.7.3-1
-kdevplatform 1.7.3-1
-kdewebdev-kfilereplace 16.04.0-1
-kdewebdev-kimagemapeditor 16.04.0-1
-kdewebdev-klinkstatus 16.04.0-1
-kdewebdev-kommander 16.04.0-1
-kdewebkit 5.21.0-1
-kdgantt2 16.04.0-1
-kdiamond 16.04.0-1
-kdnssd 5.21.0-1
-kdoctools 5.21.0-1
-kemoticons 5.21.0-1
-keyutils 1.5.9-1
-kfilemetadata 5.21.0-1
-kfloppy 16.04.0-1
-kfourinline 16.04.0-1
-kgamma5 5.6.3-1
-kgeography 16.04.0-1
-kglobalaccel 5.21.0-1
-kguiaddons 5.21.0-1
-khangman 16.04.0-1
-khelpcenter 16.04.0-1
-kholidays 16.04.0-1
-khotkeys 5.6.3-1
-khtml 5.21.0-1
-ki18n 5.21.0-1
-kiconthemes 5.21.0-1
-kidentitymanagement 16.04.0-1
-kidletime 5.21.0-1
-kig 16.04.0-1
-killbots 16.04.0-1
-kimap 16.04.0-1
-kinfocenter 5.6.3-1
-kinit 5.21.0-1
-kio 5.21.0-1
-kio-extras 16.04.0-1
-kio-pim 16.04.0-1
-kiriki 16.04.0-1
-kitemmodels 5.21.0-1
-kitemviews 5.21.0-1
-kiten 16.04.0-1
-kjobwidgets 5.21.0-1
-kjs 5.21.0-1
-kjsembed 5.21.0-1
-kjumpingcube 16.04.0-1
-kldap 16.04.0-1
-kleopatra 16.04.0-1
-klettres 16.04.0-1
-klickety 16.04.0-1
-klines 16.04.0-1
-kmahjongg 16.04.0-1
-kmail 16.04.0-2
-kmailtransport 16.04.0-1
-kmbox 16.04.0-1
-kmenuedit 5.6.3-1
-kmime 16.04.0-1
-kmines 16.04.0-1
-kmod 22-1
-kmplot 16.04.0-1
-knavalbattle 16.04.0-1
-knetwalk 16.04.0-1
-knewstuff 5.21.0-1
-knotes 16.04.0-2
-knotifications 5.21.0-1
-knotifyconfig 5.21.0-1
-kollision 16.04.0-1
-kompare 16.04.0-1
-konsole 16.04.0-1
-konsolekalendar 16.04.0-2
-kontact 16.04.0-2
-kontactinterface 16.04.0-1
-konversation 1.6-2
-korganizer 16.04.0-2
-kpackage 5.21.0-1
-kparts 5.21.0-1
-kpatience 16.04.0-1
-kpeople 5.21.0-1
-kpimtextedit 16.04.0-1
-kplotting 5.21.0-1
-kpty 5.21.0-1
-kqtquickcharts 16.04.0-1
-krb5 1.13.2-3
-krdc 16.04.0-1
-krfb 16.04.0-1
-kross 5.21.0-1
-kruler 16.04.0-1
-krunner 5.21.0-1
-kscreen 5.6.3-1
-kscreenlocker 5.6.3-1
-kservice 5.21.0-1
-kshisen 16.04.0-1
-ksquares 16.04.0-1
-ksshaskpass 5.6.3-1
-kstars 16.04.0-1
-ksysguard 5.6.3-1
-ksystemlog 16.04.0-1
-kteatime 16.04.0-1
-ktexteditor 5.21.0-1
-ktextwidgets 5.21.0-1
-ktimer 16.04.0-1
-ktnef 16.04.0-2
-ktuberling 16.04.0-1
-kturtle 16.04.0-1
-kuiserver 5.6.3-1
-kunitconversion 5.21.0-1
-kwallet 5.21.0-1
-kwallet-pam 5.6.3-1
-kwalletmanager 16.04.0-1
-kwayland 5.6.3-1
-kwayland-integration 5.6.3-1
-kwebkitpart 1.3.4-4
-kwidgetsaddons 5.21.0-1
-kwin 5.6.3-1
-kwindowsystem 5.21.0-1
-kwordquiz 16.04.0-1
-kwrite 16.04.0-1
-kwrited 5.6.3-1
-kxmlgui 5.21.0-1
-kxmlrpcclient 5.21.0-1
-ladspa 1.13-6
-lame 3.99.5-3
-lcalc 1.23-12
-lcms 1.19-5
-lcms2 2.7-1
-ldb 1.1.26-1
-ldns 1.6.17-4
-leafpad 0.8.18.1-4
-leptonica 1.73-1
-less 481-2
-leveldb 1.18-2
-lib32-acl 2.2.52-2
-lib32-alsa-lib 1.1.1-1
-lib32-atk 2.20.0-1
-lib32-attr 2.4.47-1
-lib32-bzip2 1.0.6-2
-lib32-cairo 1.14.6-2
-lib32-e2fsprogs 1.42.13-1
-lib32-elfutils 0.166-1
-lib32-expat 2.1.1-1
-lib32-flac 1.3.1-2
-lib32-fontconfig 2.11.95-1
-lib32-freetype2 2.6.3-1
-lib32-gcc-libs 5.3.0-5
-lib32-gdk-pixbuf2 2.34.0-1
-lib32-gettext 0.19.7-1
-lib32-glib2 2.48.0-1
-lib32-glibc 2.23-1
-lib32-glu 9.0.0-3
-lib32-gmp 6.1.0-2
-lib32-gnutls 3.4.11-1
-lib32-gtk2 2.24.30-1
-lib32-harfbuzz 1.2.6-1
-lib32-icu 57.1-1
-lib32-json-c 0.12-1
-lib32-keyutils 1.5.9-1
-lib32-krb5 1.13.2-3
-lib32-lcms2 2.7-1
-lib32-libasyncns 0.8-7
-lib32-libcap 2.25-1
-lib32-libcups 2.1.3-1
-lib32-libdatrie 0.2.10-1
-lib32-libdbus 1.10.8-1
-lib32-libdrm 2.4.67-1
-lib32-libffi 3.2.1-1
-lib32-libgcrypt 1.7.0-1
-lib32-libgpg-error 1.21-1
-lib32-libice 1.0.9-1
-lib32-libidn 1.32-1
-lib32-libjpeg-turbo 1.4.2-1
-lib32-libldap 2.4.44-1
-lib32-libmng 2.0.3-1
-lib32-libnl 3.2.27-1
-lib32-libogg 1.3.2-1
-lib32-libpcap 1.7.4-1
-lib32-libpciaccess 0.13.4-1
-lib32-libpng 1.6.21-1
-lib32-libpulse 8.0-1
-lib32-libsm 1.2.2-1
-lib32-libsndfile 1.0.26-1
-lib32-libtasn1 4.8-1
-lib32-libthai 0.1.24-1
-lib32-libtiff 4.0.6-2
-lib32-libtxc_dxtn 1.0.1-5
-lib32-libusb 1.0.20-1
-lib32-libvorbis 1.3.5-1
-lib32-libx11 1.6.3-1
-lib32-libxau 1.0.8-1
-lib32-libxcb 1.11.1-1
-lib32-libxcomposite 0.4.4-2
-lib32-libxcursor 1.1.14-1
-lib32-libxdamage 1.1.4-2
-lib32-libxdmcp 1.1.2-1
-lib32-libxext 1.3.3-1
-lib32-libxfixes 5.0.1-1
-lib32-libxft 2.3.2-1
-lib32-libxi 1.7.6-1
-lib32-libxinerama 1.1.3-1
-lib32-libxml2 2.9.3-1
-lib32-libxrandr 1.5.0-1
-lib32-libxrender 0.9.9-1
-lib32-libxshmfence 1.2-1
-lib32-libxss 1.2.2-2
-lib32-libxtst 1.2.2-1
-lib32-libxv 1.0.10-1
-lib32-libxxf86vm 1.1.4-1
-lib32-llvm-libs 3.7.1-1
-lib32-mesa 11.2.1-1
-lib32-mesa-libgl 11.2.1-1
-lib32-ncurses 6.0-2
-lib32-nettle 3.2-1
-lib32-openssl 1:1.0.2.g-3
-lib32-p11-kit 0.23.2-1
-lib32-pango 1.40.1-1
-lib32-pcre 8.38-2
-lib32-pixman 0.34.0-1
-lib32-qt4 4.8.7-4
-lib32-qtcurve-gtk2 1.8.18-2
-lib32-qtcurve-qt4 1.8.18-2
-lib32-qtcurve-utils 1.8.18-2
-lib32-readline 6.3.008-2
-lib32-sdl 1.2.15-6
-lib32-sdl_image 1.2.12-3
-lib32-sqlite 3.12.2-1
-lib32-systemd 229-1
-lib32-util-linux 2.28-1
-lib32-wayland 1.10.0-1
-lib32-xz 5.2.2-1
-lib32-zlib 1.2.8-1
-libabw 0.1.1-2
-libaccounts-glib 1.21-1
-libaccounts-qt 1.14-2
-libaio 0.3.110-1
-libakonadi-qt4 1.13.0-8
-libanjuta 3.20.0-1
-libao 1.2.0-1
-libarchive 3.1.2-8
-libart-lgpl 2.3.21-3
-libass 0.13.2-1
-libassuan 2.4.2-1
-libastro 16.04.0-1
-libasyncns 0.8-5
-libatasmart 0.19-3
-libatomic_ops 7.4.2-1
-libavc1394 0.5.4-2
-libbluray 0.9.2-1
-libbsd 0.8.3-1
-libburn 1.4.2.pl01-1
-libcaca 0.99.beta19-1
-libcacard 2.5.2-1
-libcanberra 0.30-6
-libcanberra-pulse 0.30-6
-libcap 2.25-1
-libcap-ng 0.7.7-1
-libcdaudio 0.99.12-7
-libcddb 1.3.2-4
-libcdio 0.93-3
-libcdio-paranoia 10.2+0.93+1-1
-libcdr 0.1.2-2
-libchamplain 0.12.13-1
-libcmis 0.5.1-1
-libcroco 0.6.11-1
-libcryptui 3.12.2-1
-libcue 2.1.0-1
-libcups 2.1.3-1
-libdaemon 0.14-3
-libdatrie 0.2.10-1
-libdbus 1.10.8-1
-libdbusmenu-qt4 0.9.3+15.10.20150604-3
-libdbusmenu-qt5 0.9.3+15.10.20150604-3
-libdc1394 2.2.3-1
-libdca 0.0.5-4
-libdiscid 0.6.1-2
-libdmapsharing 2.9.34-1
-libdmtx 0.7.4-5
-libdmx 1.1.3-1
-libdrm 2.4.67-2
-libdui 1.2.10-1
-libdv 1.0.0-6
-libdvbpsi 1:1.3.0-1
-libdvdcss 1.4.0-1
-libdvdnav 5.0.3-1
-libdvdread 5.0.4-1
-libe-book 0.1.2-5
-libebml 1.3.3-2
-libedit 20150325_3.1-2
-libelf 0.166-1
-libepoxy 1.3.1-1
-libetonyek 0.1.6-1
-libevdev 1.4.6-1
-libevent 2.0.22-2
-libexif 0.6.21-2
-libexttextcat 3.4.4-1
-libfbclient 2.5.5.26952-2
-libffi 3.2.1-1
-libfm 1.2.4-1
-libfm-extra 1.2.4-1
-libfm-gtk2 1.2.4-1
-libfontenc 1.1.3-1
-libfplll 20160331-1
-libfreexl 1.0.2-1
-libftdi-compat 0.20-3
-libgadu 1.12.1-2
-libgames-support 1.0.1-1
-libgap 4.8.3-1
-libgcrypt 1.7.0-1
-libgda 5.2.4-2
-libgdata 0.17.4-1
-libgdm 3.20.1-1
-libgee 0.18.0-1
-libgeotiff 1.4.1-2
-libgexiv2 0.10.3-4
-libgit2 1:0.24.1-1
-libgit2-glib 0.24.0-1
-libglade 2.6.4-5
-libglvnd 0.1.0.20160411-1
-libgme 0.6.0-5
-libgnome-keyring 3.12.0-2
-libgnomecanvas 2.30.3-3
-libgnomekbd 3.6.0-2
-libgpg-error 1.21-1
-libgphoto2 2.5.9-1
-libgravatar 16.04.0-1
-libgsf 1.14.36-1
-libgsystem 2015.2-1
-libgtop 2.34.0-1
-libgudev 230-1
-libgusb 0.2.9-1
-libgweather 3.20.0-1
-libgxps 0.2.3.2-1
-libibus 1.5.13-1
-libical 2.0.0-2
-libice 1.0.9-1
-libid3tag 0.15.1b-8
-libidl2 0.8.14-3
-libidn 1.32-1
-libiec61883 1.2.0-4
-libieee1284 0.2.11-5
-libimobiledevice 1.2.0-3
-libindi 1.2.0-4
-libinput 1.2.4-1
-libiptcdata 1.0.4-3
-libirman 0.4.6-1
-libisoburn 1.4.2-1
-libisofs 1.4.2-1
-libixion 0.11.0-2
-libjpeg-turbo 1.4.2-2
-libkactivities4 4.13.3-3
-libkate 0.4.1-5
-libkcddb 16.04.0-1
-libkcompactdisc 16.04.0-1
-libkdcraw 16.04.0-1
-libkdeaccessibilityclient 0.1.1-2
-libkdegames 16.04.0-1
-libkdegames4 14.12.3-3
-libkdepim 16.04.0-1
-libkeduvocdocument 16.04.0-1
-libkexiv2 16.04.0-1
-libkexiv2_4 15.08.3-2
-libkeybinder2 0.3.0-2
-libkeybinder3 0.3.0-4
-libkgapi 5.1.0-3
-libkipi 16.04.0-1
-libkleo 16.04.0-1
-libkmahjongg 16.04.0-1
-libkolab 1.0.2-2
-libkolabxml 1.1.4-1
-libkomparediff2 16.04.0-1
-libksane4 15.08.3-3
-libksba 1.3.3-1
-libkscreen 5.6.3-1
-libkscreen4 1.0.5-2
-libksieve 16.04.0-1
-libksysguard 5.6.3-1
-libktnef 16.04.0-1
-libktorrent 2.0.1-1
-liblangtag 0.5.8-2
-libldap 2.4.44-1
-liblightdm-qt5 1:1.18.1-1
-liblouis 2.6.5-1
-liblqr 0.4.2-1
-liblrdf 0.5.0-2
-libmad 0.15.1b-7
-libmariadbclient 10.1.13-1
-libmatekbd 1.12.1-1
-libmatemixer 1.12.1-1
-libmateweather 1.12.1-1
-libmatroska 1.4.4-1
-libmbim 1.12.4-1
-libmediaart 1.9.0-1
-libmediainfo 0.7.84-1
-libmikmod 3.3.8-1
-libmm-glib 1.4.14-1
-libmms 0.6.4-1
-libmng 2.0.3-1
-libmnl 1.0.3-2
-libmodplug 0.8.8.5-2
-libmp4v2 2.0.0-4
-libmpc 1.0.3-1
-libmpcdec 1:0.1+r475-1
-libmpd 11.8.17-2
-libmpeg2 0.5.1-5
-libmspub 0.1.2-5
-libmtp 1.1.11-1
-libmusicbrainz3 3.0.3-4
-libmusicbrainz5 5.1.0-2
-libmwaw 0.3.6-2
-libnautilus-extension 3.20.0-1
-libndp 1.5-1
-libnewt 0.52.19-1
-libnfs 1.10.0-1
-libnftnl 1.0.5-1
-libnice 0.1.13-1
-libnl 3.2.27-1
-libnm-glib 1.0.12-1
-libnotify 0.7.6-2
-libnova 0.15.0-1
-liboauth 1.0.3-1
-libodfgen 0.1.6-1
-libofa 0.9.3-6
-libogg 1.3.2-1
-libomxil-bellagio 0.9.3-1
-liborcus 0.11.1-1
-libosinfo 0.3.0-1
-libotf 0.9.13-2
-libotr 4.1.1-1
-libpagemaker 0.0.3-1
-libpaper 1.1.24-9
-libpcap 1.7.4-1
-libpciaccess 0.13.4-1
-libpeas 1.18.0-1
-libpgm 5.2.122-2
-libphonenumber 7.2.5-2
-libpipeline 1.4.1-1
-libplist 1.12-4
-libpng 1.6.21-1
-libproxy 0.4.12-1
-libpst 0.6.66-1
-libpulse 8.0-3
-libpurple 2.10.12-1
-libpwquality 1.3.0-1
-libqalculate 0.9.7-5
-libqmi 1.12.10-1
-libquvi 0.9.4-4
-libquvi-scripts 0.9.20131130-3
-libqzeitgeist 0.8.0-6
-libraw 0.17.1-1
-libraw1394 2.1.2-1
-libreoffice-fresh 5.1.2-1
-librevenge 0.0.4-1
-librsvg 2:2.40.15-1
-libsamplerate 0.1.8-3
-libsasl 2.1.26-7
-libseccomp 2.2.3-1
-libsecret 0.18.5-1
-libshout 1:2.4.1-2
-libsidplay 1.36.59-7
-libsigc++ 2.8.0-1
-libsignon-glib 1.13-1
-libsigsegv 2.10-2
-libsm 1.2.2-2
-libsndfile 1.0.26-1
-libsodium 1.0.10-1
-libsoup 2.54.0.1-1
-libsoxr 0.1.2-1
-libspatialite 4.3.0.a-1
-libspectre 0.2.7-2
-libspiro 1:0.5.20150702-1
-libsrtp 1:1.5.4-1
-libssh 0.7.3-1
-libssh2 1.7.0-2
-libstdc++5 3.3.6-5
-libstemmer 0+337-2
-libsynctex 2015.37497-11
-libsystemd 229-3
-libtar 1.2.20-2
-libtasn1 4.8-1
-libteam 1.23-1
-libtermkey 0.18-2
-libthai 0.1.24-1
-libtheora 1.1.1-3
-libtiff 4.0.6-2
-libtiger 0.3.4-4
-libtirpc 1.0.1-2
-libtool 2.4.6-4
-libtorrent-rasterbar 1:1.0.9-1
-libtracker-sparql 1.8.0-2
-libtxc_dxtn 1.0.1-6
-libunique 1.1.6-6
-libunistring 0.9.6-1
-libunwind 1.1-3
-libupnp 1.6.19-1
-libusb 1.0.20-1
-libusb-compat 0.1.5-1
-libusbmuxd 1.0.10-1
-libuser 0.62-1
-libutempter 1.1.6-2
-libutil-linux 2.28-1
-libuv 1.9.0-1
-libva 1.7.0-1
-libvdpau 1.1.1-2
-libvirt 1.3.3-1
-libvirt-glib 0.2.3-1
-libvirt-python 1.3.1-1
-libvisio 0.1.5-2
-libvisual 0.4.0-6
-libvncserver 0.9.10-4
-libvoikko 4.0.2-1
-libvorbis 1.3.5-1
-libvpx 1.5.0-4
-libvterm 0.1.git1.c4317a6-2
-libwacom 0.18-1
-libwbclient 4.4.2-1
-libwebp 0.5.0-1
-libwmf 0.2.8.4-12
-libwnck 2.31.0-1
-libwnck3 3.14.1-1
-libwpd 0.10.1-1
-libwpg 0.3.1-1
-libwps 0.4.3-1
-libx11 1.6.3-1
-libx264 2:148.20160103-1
-libxau 1.0.8-2
-libxaw 1.0.13-1
-libxcb 1.11.1-1
-libxcomposite 0.4.4-2
-libxcursor 1.1.14-2
-libxdamage 1.1.4-2
-libxdmcp 1.1.2-1
-libxext 1.3.3-1
-libxfce4ui 4.12.1-1
-libxfce4util 4.12.1-1
-libxfixes 5.0.1-1
-libxfont 1.5.1-1
-libxft 2.3.2-1
-libxi 1.7.6-1
-libxinerama 1.1.3-2
-libxkbcommon 0.6.1-1
-libxkbcommon-x11 0.6.1-1
-libxkbfile 1.0.9-1
-libxklavier 5.4-1
-libxml2 2.9.3+14+gd5bd2a9-1
-libxmu 1.1.2-1
-libxp 1.0.3-1
-libxpm 3.5.11-1
-libxrandr 1.5.0-1
-libxrender 0.9.9-1
-libxres 1.0.7-1
-libxshmfence 1.2-1
-libxslt 1.1.28-4
-libxss 1.2.2-2
-libxt 1.1.5-1
-libxtst 1.2.2-1
-libxv 1.0.10-1
-libxvmc 1.0.9-1
-libxxf86dga 1.1.4-1
-libxxf86vm 1.1.4-1
-libyaml 0.1.6-1
-libytnef 1.5-4
-libzapojit 0.0.3-2
-libzen 0.4.33-1
-libzip 1.1.2-1
-licenses 20140629-1
-lightdm 1:1.18.1-1
-lightsoff 3.20.0-1
-linbox 1.3.2-12
-links 2.12-2
-linux 4.5.1-1
-linux-api-headers 4.4.1-1
-linux-docs 4.5.1-1
-linux-firmware 20160315.deb1d83-1
-linux-headers 4.5.1-1
-lirc 1:0.9.3.a-2
-lldb 3.7.1-1
-llvm-libs 3.7.1-1
-lm_sensors 3.4.0-1
-lmdb 0.9.18-1
-logrotate 3.9.2-1
-lokalize 16.04.0-1
-love08 0.8.0-2
-lpsolve 5.5.2.0-3
-lrcalc 1.2-2
-lrs 061-1
-lsb-release 1.4-14
-lua 5.3.2-1
-lua51 5.1.5-4
-lua51-lpeg 1.0.0-1
-lua51-messagepack 0.3.4-1
-lua52 5.2.4-1
-lua52-bitop 1.0.2-7
-lua52-expat 1.3.0-3
-lua52-lpeg 1.0.0-1
-lua52-luajson 1.3.3-2
-lua52-socket 20160311-1
-luajit 2.0.4-2
-lvm2 2.02.149-1
-lxappearance 0.6.2-1
-lxappearance-obconf 0.2.3-1
-lxde-common 0.99.1-2
-lxde-icon-theme 0.5.1-2
-lxdm 0.5.3-2
-lxinput 0.3.5-1
-lxlauncher 0.2.5-1
-lxmenu-data 0.1.5-1
-lxmusic 0.4.7-1
-lxpanel 0.8.2-1
-lxrandr 0.3.1-1
-lxsession 1:0.5.2-2
-lxtask 0.1.7-1
-lxterminal 0.2.0-2
-lynx 2.8.8-4
-lz4 131-1
-lzo 2.09-1
-m17n-db 1.7.0-1
-m17n-lib 1.7.0-1
-m4 1.4.17-1
-m4ri 20140914-1
-m4rie 20150908-1
-mailcommon 16.04.0-1
-mailimporter 16.04.0-1
-make 4.1-3
-man-db 2.7.5-1
-man-pages 4.05-1
-marble 16.04.0-1
-marble-data 16.04.0-1
-marco 1.12.1-1
-mari0 1.6-2
-mariadb 10.1.13-1
-mariadb-clients 10.1.13-1
-mate-backgrounds 1.12.0-1
-mate-common 1.12.0-1
-mate-control-center 1.12.1-1
-mate-desktop 1.12.1-1
-mate-icon-theme 1.12.0-1
-mate-menus 1.12.0-1
-mate-notification-daemon 1.12.1-1
-mate-panel 1.12.2-1
-mate-polkit 1.12.0-1
-mate-session-manager 1.12.1-1
-mate-settings-daemon 1.12.1-1
-mate-themes 3.20.5-2
-mate-user-guide 1.12.0-1
-mathjax 2.6.1-1
-maxima-ecl 5.38.0-1
-mdadm 3.4-1
-media-player-info 22-2
-mediainfo 0.7.84-1
-menu-cache 1.0.1-2
-mercurial 3.7.3-1
-mesa 11.2.1-1
-mesa-demos 8.3.0-1
-mesa-libgl 11.2.1-1
-messagelib 16.04.0-1
-milou 5.6.3-1
-mime-types 9-1
-minuet 16.04.0-2
-mjpegtools 2.1.0-2
-mkinitcpio 19-1
-mkinitcpio-busybox 1.24.1-1
-mlt 6.2.0-1
-mobile-broadband-provider-info 20151214-1
-mod_dnssd 0.6-6
-modemmanager 1.4.14-1
-modemmanager-qt 5.21.0-1
-mousepad 0.4.0-1
-mousetweaks 3.12.0-1
-mozilla-common 1.4-4
-mpfi 1.5.1-1
-mpfr 3.1.4-1
-mpg123 1.22.4-1
-mplayer 37379-7
-msgpack-c 1.4.1-1
-mtdev 1.1.5-1
-muffin 3.0.0-1
-musicbrainz 2.1.5-7
-mutagen 1.31-1
-mutter 3.20.1-1
-namcap 3.2.6-1
-nano 2.5.3-1
-nasm 2.11.08-1
-nautilus 3.20.0-1
-nautilus-sendto 3.8.3-1
-nauty 26r5-1
-ncurses 6.0-4
-nemo 3.0.0-1
-neon 0.30.1-2
-net-snmp 5.7.3-2
-netbeans 8.1-2
-netcdf 4.3.3.1-2
-netcf 0.2.8-3
-netctl 1.11-1
-netpbm 10.73-1
-nettle 3.2-1
-network-manager-applet 1.0.10-1
-networkmanager 1.0.12-1
-networkmanager-qt 5.21.0-1
-newt-syrup 0.2.0-1
-nm-connection-editor 1.0.10-1
-nodejs 5.11.0-1
-nodejs-grunt-cli 1.2.0-1
-noto-fonts 20151224-2
-npm 3.8.7-1
-npth 1.2-1
-nspr 4.12-1
-nss 3.23-3
-ntl 9.7.1-1
-ntp 4.2.8.p6-3
-numactl 2.0.11-1
-nvidia-dkms 364.19-1
-nvidia-utils 364.19-1
-ocaml 4.02.3-2
-ocl-icd 2.2.9-1
-octave 4.0.1-3
-okteta 16.04.0-1
-onboard 1.2.0-2
-openal 1.17.2-2
-openbabel 2.3.2-5
-openbox 3.6.1-3
-openbsd-netcat 1.105_7-7
-opencore-amr 0.1.3-2
-opendesktop-fonts 1.4.2-3
-openexr 2.2.0-3
-openjpeg 1.5.2-1
-openjpeg2 2.1.0-1
-openmpi 1.10.2-1
-openresolv 3.7.2-1
-openslp 2.0.0-1
-openssh 7.2p2-1
-openssl 1.0.2.g-3
-optipng 0.7.6-1
-opus 1.1.2-1
-orage 4.12.1-2
-orc 0.4.25-1
-orca 3.20.0-2
-oxygen 5.6.3-1
-oxygen-icons 1:5.21.0-1
-p11-kit 0.23.2-1
-p7zip 9.38.1-4
-packagekit 1.1.1-1
-pacman 5.0.1-2
-pacman-mirrorlist 20160424-1
-palp 2.1-1
-pam 1.2.1-3
-pambase 20130928-1
-pandoc 1.17.0.3-7
-pango 1.40.1-1
-pango-perl 1.227-1
-pangomm 2.40.0-1
-pangox-compat 0.0.2-2
-pari-galdata 20080411-1
-pari-sage 2.8.2341.g61b65cc-3
-pari-seadata-small 20090618-1
-parley 16.04.0-1
-parted 3.2-3
-pastebinit 1.4.1-1
-patch 2.7.5-1
-patchelf 0.8-2
-pciutils 3.4.1-1
-pcmanfm 1.2.4-1
-pcmciautils 018-7
-pcre 8.38-3
-pcre2 10.21-1
-pelican 3.6.3-5
-perl 5.22.1-2
-perl-algorithm-diff 1.1903-1
-perl-archive-extract 0.76-1
-perl-clone 0.38-1
-perl-dbi 1.636-1
-perl-error 0.17024-1
-perl-exporter-tiny 0.042-1
-perl-extutils-depends 0.405-1
-perl-extutils-pkgconfig 1.15-1
-perl-file-basedir 0.07-1
-perl-goo-canvas 0.06-5
-perl-gtk2-imageview 0.05-5
-perl-html-parser 3.72-1
-perl-html-tagset 3.20-4
-perl-inc-latest 0.500-1
-perl-io-string 1.08-9
-perl-io-stringy 2.111-1
-perl-ipc-system-simple 1.25-1
-perl-list-moreutils 0.413-1
-perl-locale-gettext 1.07-1
-perl-log-log4perl 1.47-1
-perl-module-build 0.4218-1
-perl-module-pluggable 5.2-1
-perl-proc-processtable 0.53-1
-perl-readonly 2.01-1
-perl-sgmls 1.03ii-5
-perl-spiffy 0.46-1
-perl-test-base 0.88-1
-perl-test-differences 0.64-1
-perl-text-diff 1.44-1
-perl-timedate 2.30-2
-perl-try-tiny 0.24-1
-perl-uri 1.71-1
-perl-xml-libxml 2.0124-2
-perl-xml-namespacesupport 1.11-3
-perl-xml-parser 2.44-2
-perl-xml-sax 0.99-4
-perl-xml-sax-base 1.08-3
-perl-xml-sax-expat 0.51-4
-perl-xml-simple 2.22-1
-phonon-qt4 4.9.0-1
-phonon-qt4-gstreamer 4.9.0-1
-phonon-qt5 4.9.0-1
-phonon-qt5-gstreamer 4.9.0-1
-physfs 2.0.3-2
-picmi 16.04.0-1
-pidgin 2.10.12-1
-pimcommon 16.04.0-1
-pinentry 0.9.7-1
-pixman 0.34.0-1
-pkg-config 0.29.1-1
-pkgbuild-introspection 8-1
-planarity 2.2.0-1
-plasma-desktop 5.6.3-1
-plasma-framework 5.21.0-1
-plasma-integration 5.6.3-1
-plasma-mediacenter 5.6.3-1
-plasma-meta 5.6-2
-plasma-nm 5.6.3-1
-plasma-pa 5.6.3-1
-plasma-sdk 5.6.3-1
-plasma-wayland-session 5.6.3-1
-plasma-workspace 5.6.3-1
-plasma-workspace-wallpapers 5.6.3-1
-polari 3.20.0-1
-polkit 0.113-4
-polkit-gnome 0.105-3
-polkit-kde-agent 5.6.3-1
-polkit-qt4 0.112.0+git20160226-1
-polkit-qt5 0.112.0+git20160226-1
-poppler 0.42.0-1
-poppler-glib 0.42.0-1
-poppler-qt4 0.42.0-1
-poppler-qt5 0.42.0-1
-popt 1.16-7
-portaudio 19_20140130-3
-portmidi 217-5
-postgresql-libs 9.5.2-1
-potrace 1.13-1
-powerdevil 5.6.3-1
-poxml 16.04.0-1
-ppl 1.1-2
-ppp 2.4.7-2
-presentproto 1.0-1
-primus 20151110-5
-print-manager 16.04.0-1
-printproto 1.0.5-3
-prison 1.1.1-2
-prison-frameworks 1.2.1.20150831-2
-procps-ng 3.3.11-2
-proj 4.9.2-1
-protobuf 2.6.1-2
-protobuf-c 1.2.1-2
-psmisc 22.21-3
-pulseaudio 8.0-3
-pulseaudio-alsa 2-3
-purpose 1.0-2
-pyalpm 0.8-1
-pygobject-devel 3.20.0-1
-pygobject2-devel 2.28.6-12
-pygtk 2.24.0-6
-pynac 0.6.2-1
-pyqt4-common 4.11.4-4
-pyqt5-common 5.5.1-2
-python 3.5.1-2
-python-astroid 1.4.5-1
-python-atspi 2.20.1-1
-python-babel 2.3.4-1
-python-beaker 1.8.0-1
-python-beautifulsoup4 4.4.1-1
-python-blinker 1.4-2
-python-cairo 1.10.0-6
-python-chardet 2.3.0-2
-python-cycler 0.10.0-1
-python-dateutil 2.5.2-2
-python-dbus 1.2.4-1
-python-dbus-common 1.2.4-1
-python-decorator 4.0.9-1
-python-distutils-extra 2.39-1
-python-docopt 0.6.2-3
-python-docutils 0.12-3
-python-et-xmlfile 1.0.1-1
-python-feedgenerator 1.8-1
-python-gmpy2 2.0.7-2
-python-gobject 3.20.0-1
-python-gtkspellcheck 4.0.2-3
-python-imagesize 0.7.1-1
-python-ipykernel 4.3.1-1
-python-jdcal 1.2-1
-python-jedi 0.9.0-2
-python-jinja 2.8-2
-python-jsonschema 2.5.1-3
-python-lazy-object-proxy 1.2.1-1
-python-lxml 3.6.0-1
-python-mako 1.0.4-1
-python-markdown 2.6.6-1
-python-markupsafe 0.23-3
-python-matplotlib 1.5.1-2
-python-mistune 0.7.2-1
-python-mock 1.3.0-3
-python-mpmath 0.19-2
-python-numexpr 2.5.2-1
-python-numpy 1.11.0-1
-python-openpyxl 2.3.4-1
-python-packaging 16.7-1
-python-pandas 0.18.0-1
-python-path 8.2.1-1
-python-pbr 1.9.1-1
-python-pexpect 4.0.1-2
-python-pip 8.1.1-1
-python-psutil 4.1.0-1
-python-ptyprocess 0.5.1-1
-python-py 1.4.31-1
-python-pyelftools 0.23-2
-python-pyenchant 1.6.6-2
-python-pyflakes 1.1.0-1
-python-pygments 2.1.3-1
-python-pylint 1.5.5-1
-python-pyparsing 2.1.1-1
-python-pypeg2 2.15.1-3
-python-pyqt4 4.11.4-4
-python-pyqt5 5.5.1-2
-python-pytables 3.2.2-4
-python-pytest 2.9.1-1
-python-pytest-runner 2.7.1-1
-python-pytz 2016.3-1
-python-pyzmq 15.2.0-1
-python-requests 2.9.1-1
-python-rope 0.9.4_1-3
-python-scipy 0.17.0-1
-python-setuptools 1:20.9.0-1
-python-sip 4.18-1
-python-six 1.10.0-1
-python-snowballstemmer 1.2.1-1
-python-sphinx 1.4.1-2
-python-sphinx-alabaster-theme 0.7.7-1
-python-sphinx_rtd_theme 0.1.9-1
-python-sympy 1.0-1
-python-unidecode 0.04.19-2
-python-urllib3 1.15.1-1
-python-wrapt 1.10.8-1
-python-xdg 0.25-3
-python-yaml 3.11-3
-python2 2.7.11-3
-python2-apptools 4.4.0-1
-python2-astroid 1.4.5-1
-python2-atspi 2.20.1-1
-python2-babel 2.3.4-1
-python2-backports 1.0-1
-python2-backports.shutil_get_terminal_size 1.0.0-1
-python2-beaker 1.8.0-1
-python2-bottle 0.12.9-1
-python2-cairo 1.10.0-2
-python2-cffi 1.5.2-1
-python2-chardet 2.3.0-2
-python2-crypto 2.6.1-3
-python2-cryptography 1.3.1-1
-python2-cssselect 0.9.1-3
-python2-cvxopt 1.1.8-5
-python2-cycler 0.10.0-1
-python2-dateutil 2.5.2-2
-python2-dbus 1.2.4-1
-python2-decorator 4.0.9-1
-python2-deepin-gsettings 0.1.20131016-1
-python2-deepin-storm 0.3.20140625-1
-python2-deepin-ui 1.0.4-1
-python2-deepin-utils 0.1.20140509-1
-python2-deepin-vte 0.28.2.20130904-1
-python2-docutils 0.12-3
-python2-enum34 1.1.2-1
-python2-envisage 4.5.1-1
-python2-et-xmlfile 1.0.1-1
-python2-funcsigs 0.4-1
-python2-gmpy2 2.0.7-2
-python2-gobject 3.20.0-1
-python2-gobject2 2.28.6-12
-python2-idna 2.1-1
-python2-igraph 0.7.1.post6-2
-python2-imagesize 0.7.1-1
-python2-ipaddr 2.1.11-1
-python2-ipaddress 1.0.16-1
-python2-ipy 0.83-1
-python2-ipykernel 4.3.1-1
-python2-jdcal 1.2-1
-python2-jedi 0.9.0-2
-python2-jinja 2.8-2
-python2-jswebkit 0.0.3-5
-python2-keybinder2 0.3.0-2
-python2-lazy-object-proxy 1.2.1-1
-python2-lxml 3.6.0-1
-python2-m2crypto 0.24.0-1
-python2-magic 5.25-3
-python2-mako 1.0.4-1
-python2-markupsafe 0.23-3
-python2-matplotlib 1.5.1-2
-python2-mock 1.3.0-3
-python2-mpd 0.3.0-5
-python2-mpmath 0.19-2
-python2-networkx 1.11-1
-python2-numexpr 2.5.2-1
-python2-numpy 1.11.0-1
-python2-oauthlib 1.1.0-1
-python2-opengl 3.1.0-2
-python2-openpyxl 2.3.4-1
-python2-packaging 16.7-1
-python2-pam 0.1.4-3
-python2-pandas 0.18.0-1
-python2-path 8.2.1-1
-python2-pathlib 1.0.1-3
-python2-pbr 1.9.1-1
-python2-peewee 2.8.0-1
-python2-pexpect 4.0.1-2
-python2-pillow 3.2.0-1
-python2-pip 8.1.1-1
-python2-ply 3.8-1
-python2-psutil 4.1.0-1
-python2-ptyprocess 0.5.1-1
-python2-py 1.4.31-1
-python2-pyasn1 0.1.9-1
-python2-pycparser 2.14-2
-python2-pycurl 7.43.0-1
-python2-pyflakes 1.1.0-1
-python2-pygame 1.9.1-10
-python2-pygments 2.1.3-1
-python2-pyinotify 0.9.6-2
-python2-pylint 1.5.5-1
-python2-pyopenssl 16.0.0-1
-python2-pyparsing 2.1.1-1
-python2-pyqt4 4.11.4-4
-python2-pyqt5 5.5.1-2
-python2-pyquery 1.2.13-1
-python2-pytest 2.9.1-1
-python2-pytest-runner 2.7.1-1
-python2-pytz 2016.3-1
-python2-pyzmq 15.2.0-1
-python2-requests 2.9.1-1
-python2-requests-oauthlib 0.6.1-1
-python2-rope 0.10.3-1
-python2-rpy2 2.7.8-1
-python2-scipy 0.17.0-1
-python2-setuptools 1:20.9.0-1
-python2-singledispatch 3.4.0.3-2
-python2-sip 4.18-1
-python2-six 1.10.0-1
-python2-snowballstemmer 1.2.1-1
-python2-sphinx 1.4.1-2
-python2-sphinx-alabaster-theme 0.7.7-1
-python2-sphinx_rtd_theme 0.1.9-1
-python2-sympy 1.0-1
-python2-traits 4.5.0-2
-python2-twisted 16.1.1-1
-python2-urllib3 1.15.1-1
-python2-wnck 2.32.0-15
-python2-wrapt 1.10.8-1
-python2-xcffib 0.4.1-1
-python2-xdg 0.25-3
-python2-xlib 0.15rc1-7
-python2-xpybutil 0.0.1.20151007-1
-python2-zope-interface 4.1.3-2
-pywebkitgtk 1.1.8-3
-qbittorrent 3.3.3-2
-qca-qt4 2.1.1-5
-qca-qt5 2.1.1-5
-qd 2.3.17-2
-qemu 2.5.0-1
-qhull 2015.2-1
-qimageblitz 0.0.6-5
-qjson 0.8.1-5
-qoauth 1.0.1-6
-qpdf 6.0.0-2
-qqwing 1.3.4-2
-qrencode 3.4.4-1
-qscintilla-qt4 2.9.1-3
-qt4 4.8.7-8
-qt5-base 5.6.0-3
-qt5-declarative 5.6.0-1
-qt5-graphicaleffects 5.6.0-1
-qt5-gstreamer 1.2.0-2
-qt5-imageformats 5.6.0-1
-qt5-location 5.6.0-1
-qt5-multimedia 5.6.0-1
-qt5-quickcontrols 5.6.0-1
-qt5-script 5.6.0-1
-qt5-sensors 5.6.0-1
-qt5-svg 5.6.0-1
-qt5-tools 5.6.0-2
-qt5-translations 5.6.0-1
-qt5-wayland 5.6.0-1
-qt5-webchannel 5.6.0-1
-qt5-webkit 5.6.0-4
-qt5-x11extras 5.6.0-1
-qt5-xmlpatterns 5.6.0-1
-qtav 1.10.0-1
-qtchooser 53-2
-qtcurve-gtk2 1.8.18.git20151017-1
-qtcurve-qt4 1.8.18.git20151017-1
-qtcurve-qt5 1.8.18.git20151017-1
-qtcurve-utils 1.8.18.git20151017-1
-qtwebkit 2.3.4-4
-quadrapassel 3.20.0-1
-quazip-qt5 0.7.2-1
-qupzilla 1.8.9-2
-qutebrowser 0.6.1-1
-r 3.2.4-2
-randrproto 1.5.0-1
-rankwidth 0.7-1
-raptor 2.0.15-4
-rarian 0.8.1-5
-rasqal 1:0.9.33-1
-readline 6.3.008-3
-recode 3.6-8
-recordproto 1.14.2-2
-redland 1:1.0.17-3
-reiserfsprogs 3.6.24-1
-rekonq 2.4.2-5
-renderproto 0.11.1-3
-resourceproto 1.2.0-3
-rest 0.7.93-1
-rfkill 0.5-1
-ristretto 0.8.0-1
-rocs 16.04.0-1
-rsync 3.1.2-1
-rtkit 0.11-5
-rtmpdump 1:2.4.r96.fa8646d-2
-rubiks 20070912-2
-ruby 2.3.0-2
-ruby-rack 1.6.4-2
-run-parts 4.7-1
-rust 1:1.8.0-1
-rygel 0.30.1-1
-s-nail 14.8.8-1
-sage-data-combinatorial_designs 20140630-1
-sage-data-conway_polynomials 0.4-2
-sage-data-elliptic_curves 0.8-1
-sage-data-graphs 20151224-1
-sage-data-polytopes_db 20120220-2
-sagemath 7.1-8
-samba 4.4.2-1
-sane 1.0.25-1
-sbc 1.3-1
-schroedinger 1.0.11-3
-scim 1.4.15-3
-scrnsaverproto 1.2.2-2
-sddm 0.13.0-2
-sddm-kcm 5.6.3-1
-sdl 1.2.15-7
-sdl2 2.0.4-2
-sdl2_image 2.0.1-1
-sdl_image 1.2.12-3
-sdl_mixer 1.2.12-4
-sdl_ttf 2.0.11-3
-seabios 1.9.1-1
-seahorse 3.20.0-1
-sed 4.2.2-3
-semver 5.1.0-1
-serf 1.3.8-2
-shadow 4.2.1-3
-shared-color-targets 0.1.5-1
-shared-mime-info 1.6-1
-signon-kwallet-extension 16.04.0-1
-signon-plugin-oauth2 0.23-2
-signon-ui 0.17+15.10.20150810-2
-signond 8.58-1
-simple-scan 3.20.0-1
-singular 3.1.7.p1-17
-sip 4.18-1
-slang 2.3.0-1
-smbclient 4.4.2-1
-smpeg 0.4.5-2
-snappy 1.1.3-2
-socat 1.7.3.1-2
-solid 5.21.0-1
-sonata 1.6.2.1-12
-sonnet 5.21.0-1
-sound-theme-freedesktop 0.8-2
-soundtouch 1.9.2-1
-source-highlight 3.1.8-6
-spandsp 0.0.6-1
-spectacle 16.04.0-1
-speech-dispatcher 0.8.3-6
-speex 1.2rc2-1
-speexdsp 1.2rc3-2
-spice 0.12.6-2
-spice-glib 0.31-1
-spice-gtk3 0.31-1
-spice-protocol 0.12.11-1
-spyder 2.3.8-2
-spyder3 2.3.8-2
-sqlite 3.12.2-1
-squashfs-tools 4.3-4
-startdde 3.0.3-4
-startup-notification 0.12-4
-steam 1.0.0.51-1
-step 16.04.0-1
-strigi 0.7.8-9
-subversion 1.9.3-2
-sudo 1.8.16-1
-suitesparse 4.4.5-1
-supertux 0.4.0-1
-sushi 3.18.0-2
-swell-foop 3.20.0-1
-swig 3.0.8-1
-sympow 1.018.1-4
-sysfsutils 2.1.0-9
-systemd 229-3
-systemd-sysvcompat 229-3
-systemsettings 5.6.3-1
-t1lib 5.1.2-5
-tachyon 0.98.9-3
-taglib 1.10-3
-tali 3.20.0-1
-talloc 2.1.6-1
-tar 1.28-1
-tcl 8.6.4-1
-tdb 1.3.8-1
-telepathy-accounts-signon 1.0-1
-telepathy-farstream 0.6.2-2
-telepathy-glib 0.24.1-1
-telepathy-idle 0.2.0-1
-telepathy-kde-accounts-kcm 16.04.0-1
-telepathy-kde-approver 16.04.0-1
-telepathy-kde-auth-handler 16.04.0-1
-telepathy-kde-call-ui 16.04.0-1
-telepathy-kde-common-internals 16.04.0-1
-telepathy-kde-contact-list 16.04.0-1
-telepathy-kde-contact-runner 16.04.0-1
-telepathy-kde-desktop-applets 16.04.0-1
-telepathy-kde-filetransfer-handler 16.04.0-1
-telepathy-kde-integration-module 16.04.0-1
-telepathy-kde-meta 16.04-1
-telepathy-kde-send-file 16.04.0-1
-telepathy-kde-text-ui 16.04.0-1
-telepathy-logger 0.8.2-1
-telepathy-logger-qt 15.04.0-2
-telepathy-mission-control 5.16.3-1
-telepathy-qt4 0.9.6.1-2
-telepathy-qt5 0.9.6.1-2
-tesseract 3.04.00-5
-tevent 0.9.28-1
-texinfo 6.1-1
-texlive-bin 2015.37497-11
-texlive-core 2015.38835-1
-thin-provisioning-tools 0.6.1-2
-threadweaver 5.21.0-1
-thunar 1.6.10-2
-thunar-archive-plugin 0.3.1-5
-thunar-media-tags-plugin 0.2.1-2
-thunar-volman 0.8.1-1
-thunderbird 45.0-1
-tidy 5.0.0-2
-timidity++ 2.14.0-7
-totem 3.20.1-1
-totem-plparser 3.10.6-1
-tracker 1.8.0-2
-tree 1.7.0-1
-tslib 1.1-1
-ttf-anonymous-pro 1.003-2
-ttf-arphic-ukai 0.2.20080216.1-5
-ttf-arphic-uming 0.2.20080216.1-5
-ttf-baekmuk 2.2-9
-ttf-bitstream-vera 1.10-10
-ttf-cheapskate 2.0-10
-ttf-croscore 20151224-2
-ttf-dejavu 2.35-1
-ttf-droid 20121017-4
-ttf-fira-mono 2:3.206-1
-ttf-fira-sans 1:4.202-1
-ttf-freebanglafont 20130212-2
-ttf-freefont 20120503-4
-ttf-gentium 1.03-3
-ttf-hack 2.019-2
-ttf-hanazono 20160201-1
-ttf-hannom 2005-4
-ttf-inconsolata 20151221.480630d-1
-ttf-indic-otf 0.2-8
-ttf-ionicons 2.0.1-1
-ttf-junicode 0.7.8-3
-ttf-khmer 5.0-5
-ttf-liberation 2.00.1-6
-ttf-linux-libertine 5.3.0-3
-ttf-linux-libertine-g 20120116-3
-ttf-mph-2b-damase 001.000.4.dfsg.2-6
-ttf-oxygen 1:5.4.3-1
-ttf-sazanami 20040629-9
-ttf-symbola 8.00-1
-ttf-tibetan-machine 1.901-7
-ttf-tlwg 0.6.1-2
-ttf-ubraille 001.000-8
-ttf-ubuntu-font-family 0.83-1
-tumbler 0.1.31-1
-tzdata 2016d-1
-udisks2 2.1.7-1
-umbrello 16.04.0-1
-unibilium 1.2.0-1
-unixodbc 2.3.4-1
-unpaper 6.1-3
-unrar 1:5.3.11-1
-unzip 6.0-12
-upower 0.99.4-2
-urlgrabber 3.10.1-2
-usbmuxd 1.1.0-2
-usbredir 0.7-1
-usbutils 008-1
-user-manager 5.6.3-1
-util-linux 2.28-1
-v4l-utils 1.10.0-1
-vala 0.32.0-1
-valgrind 3.11.0-3
-vde2 2.3.2-8
-vi 1:070224-2
-vid.stab 1.1-1
-videoproto 2.3.3-1
-vile 9.8_q-2
-vinagre 3.20.1-1
-vino 3.20.1-1
-virt-install 1.3.2-4
-virt-manager 1.3.2-4
-virtualbox 5.0.18-1
-virtualbox-host-dkms 5.0.18-1
-virtualgl 2.5-2
-vlc 2.2.2-4
-vte 0.28.2-7
-vte-common 0.44.1-1
-vte3 0.44.1-1
-vtk 7.0.0-2
-vtk6 6.3.0-2
-warzone2100 3.1.5-1
-wavpack 4.75.2-1
-wayland 1.10.0-1
-wayland-protocols 1.3-1
-wcslib 5.14-1
-webkit2gtk 2.12.1-1
-webkitgtk 2.4.11-1
-webkitgtk2 2.4.11-1
-webrtc-audio-processing 0.1-3
-wget 1.17.1-1
-which 2.21-1
-whois 5.2.11-1
-wildmidi 0.3.8-1
-wine 1.9.8-1
-wine-mono 4.6.0-1
-winetricks 20160329-1
-wkhtmltopdf 0.12.3-1
-wmctrl 1.07-4
-wpa_supplicant 1:2.5-3
-wxgtk 3.0.2-5
-x265 1.9-1
-xalan-c 1:1.11-1
-xapian-core 1:1.2.22-1
-xbitmaps 1.1.1-3
-xcb-proto 1.11-2
-xcb-util 0.4.0-1
-xcb-util-cursor 0.1.2-1
-xcb-util-image 0.4.0-1
-xcb-util-keysyms 0.4.0-1
-xcb-util-renderutil 0.3.9-1
-xcb-util-wm 0.4.1-1
-xclip 0.12.git.20160201-1
-xcur2png 0.7.1-4
-xdg-user-dirs 0.15-4
-xdg-user-dirs-gtk 0.10-2
-xdg-utils 1.1.1-2
-xdotool 3.20150503.1-1
-xerces-c 3.1.3-1
-xextproto 7.3.0-1
-xf86-input-evdev 2.10.1-3
-xf86-input-joystick 1.6.2-6
-xf86-input-keyboard 1.8.1-2
-xf86-input-libinput 0.18.0-1
-xf86-input-mouse 1.9.1-2
-xf86-input-synaptics 1.8.3-2
-xf86-input-vmmouse 13.1.0-2
-xf86-input-void 1.4.1-2
-xf86-video-amdgpu 1.1.0-1
-xf86-video-ark 0.7.5-7
-xf86-video-ati 1:7.7.0-1
-xf86-video-dummy 0.3.7-5
-xf86-video-fbdev 0.4.4-5
-xf86-video-glint 1.2.8-7
-xf86-video-i128 1.3.6-7
-xf86-video-intel 1:2.99.917+636+g562ae1f-1
-xf86-video-mach64 6.9.5-2
-xf86-video-neomagic 1.2.9-2
-xf86-video-nv 2.1.20-7
-xf86-video-openchrome 0.4.0-1
-xf86-video-r128 6.10.1-1
-xf86-video-savage 2.3.8-2
-xf86-video-siliconmotion 1.7.8-2
-xf86-video-sis 0.10.8-2
-xf86-video-tdfx 1.4.5-7
-xf86-video-trident 1.3.7-2
-xf86-video-vesa 2.3.4-2
-xf86-video-vmware 13.1.0-3
-xf86-video-voodoo 1.2.5-7
-xf86dgaproto 2.1-3
-xf86driproto 2.1.1-3
-xf86vidmodeproto 2.3.1-3
-xfburn 0.5.4-2
-xfce4-appfinder 4.12.0-3
-xfce4-artwork 0.1.1a_git20110420-4
-xfce4-battery-plugin 1.0.5-4
-xfce4-clipman-plugin 1.2.6-2
-xfce4-cpufreq-plugin 1.1.2-1
-xfce4-cpugraph-plugin 1.0.5-3
-xfce4-datetime-plugin 0.6.2-4
-xfce4-dict 0.7.1-1
-xfce4-diskperf-plugin 2.5.5-1
-xfce4-eyes-plugin 4.4.4-1
-xfce4-fsguard-plugin 1.0.2-4
-xfce4-genmon-plugin 3.4.0-3
-xfce4-mailwatch-plugin 1.2.0-6
-xfce4-mixer 4.11.0-2
-xfce4-mount-plugin 0.6.7-3
-xfce4-mpc-plugin 0.4.5-1
-xfce4-netload-plugin 1.2.4-2
-xfce4-notes-plugin 1.8.1-1
-xfce4-notifyd 0.2.4-2
-xfce4-panel 4.12.0-1
-xfce4-power-manager 1.4.4-1
-xfce4-screenshooter 1.8.2-2
-xfce4-sensors-plugin 1.2.6-2
-xfce4-session 4.12.1-3
-xfce4-settings 4.12.0-3
-xfce4-smartbookmark-plugin 0.4.6-1
-xfce4-systemload-plugin 1.1.2-2
-xfce4-taskmanager 1.1.0-1
-xfce4-terminal 0.6.3-2
-xfce4-time-out-plugin 1.0.2-1
-xfce4-timer-plugin 1.6.0-3
-xfce4-verve-plugin 1.1.0-1
-xfce4-wavelan-plugin 0.5.12-1
-xfce4-weather-plugin 0.8.6-1
-xfce4-whiskermenu-plugin 1.5.3-1
-xfce4-xkb-plugin 0.7.1-2
-xfconf 4.12.0-2
-xfdesktop 4.12.3-1
-xfsprogs 4.3.0-1
-xfwm4 4.12.3-1
-xfwm4-themes 4.10.0-2
-xineramaproto 1.2.1-3
-xkeyboard-config 2.17-2
-xmlto 0.0.28-1
-xmms2 0.8DrO_o.919.gece0baf-3
-xorg-bdftopcf 1.0.5-1
-xorg-docs 1.7.1-1
-xorg-font-util 1.3.1-1
-xorg-font-utils 7.6-4
-xorg-fonts-100dpi 1.0.3-2
-xorg-fonts-75dpi 1.0.3-2
-xorg-fonts-alias 1.0.3-1
-xorg-fonts-encodings 1.0.4-4
-xorg-fonts-misc 1.0.3-4
-xorg-iceauth 1.0.7-1
-xorg-luit 1.1.1-2
-xorg-mkfontdir 1.0.7-2
-xorg-mkfontscale 1.1.2-1
-xorg-server 1.18.3-1
-xorg-server-common 1.18.3-1
-xorg-server-devel 1.18.3-1
-xorg-server-xdmx 1.18.3-1
-xorg-server-xephyr 1.18.3-1
-xorg-server-xnest 1.18.3-1
-xorg-server-xvfb 1.18.3-1
-xorg-server-xwayland 1.18.3-1
-xorg-sessreg 1.1.0-1
-xorg-setxkbmap 1.3.1-1
-xorg-smproxy 1.0.6-1
-xorg-util-macros 1.19.0-1
-xorg-x11perf 1.6.0-1
-xorg-xauth 1.0.9-1
-xorg-xbacklight 1.2.1-1
-xorg-xcmsdb 1.0.5-1
-xorg-xcursorgen 1.0.6-1
-xorg-xdpyinfo 1.3.2-1
-xorg-xdriinfo 1.0.5-1
-xorg-xev 1.2.2-1
-xorg-xgamma 1.0.6-1
-xorg-xhost 1.0.7-1
-xorg-xinit 1.3.4-4
-xorg-xinput 1.6.2-1
-xorg-xkbcomp 1.3.1-1
-xorg-xkbevd 1.1.4-1
-xorg-xkbutils 1.0.4-2
-xorg-xkill 1.0.4-1
-xorg-xlsatoms 1.1.2-1
-xorg-xlsclients 1.1.3-1
-xorg-xmessage 1.0.4-2
-xorg-xmodmap 1.0.9-1
-xorg-xpr 1.0.4-2
-xorg-xprop 1.2.2-1
-xorg-xrandr 1.5.0-1
-xorg-xrdb 1.1.0-2
-xorg-xrefresh 1.0.5-1
-xorg-xset 1.2.3-1
-xorg-xsetroot 1.1.1-2
-xorg-xvinfo 1.1.3-1
-xorg-xwd 1.0.6-1
-xorg-xwininfo 1.1.3-1
-xorg-xwud 1.0.4-2
-xproto 7.0.28-1
-xsane 0.999-1
-xsane-gimp 0.999-1
-xterm 324-1
-xtrans 1.3.5-1
-xvidcore 1.3.4-1
-xz 5.2.2-1
-yajl 2.1.0-1
-yakuake 3.0.2-2
-yasm 1.3.0-1
-yelp 3.20.1-1
-yelp-tools 3.18.0-1
-yelp-xsl 3.20.1-1
-zeitgeist 0.9.16-1
-zenity 3.20.0-1
-zeromq 4.1.4-1
-zile 2.4.11-3
-zip 3.0-7
-zita-alsa-pcmi 0.2.0-3
-zita-resampler 1.3.0-5
-zlib 1.2.8-4
-zn_poly 0.9-3
-zsh 5.2-1
-zvbi 0.2.35-1
-zziplib 0.13.62-2
+adec
+aalib
+abs
+accerciser
+accountsservice
+acl
+acpid
+adwaita-icon-theme
+aisleriot
+akonadi
+akonadi-calendar
+akonadi-contact
+akonadi-mime
+akonadi-notes
+akonadi-search
+akonadi-socialutils
+akonadiconsole
+akregator
+alienarena
+alienarena-data
+alsa-lib
+alsa-plugins
+alsa-utils
+analitza
+anjuta
+apache
+apache-ant
+apr
+apr-util
+arb
+arch-install-scripts
+archiso
+archlinux-keyring
+aria
+ark
+arpack
+artikulate
+asciidoc
+aspell
+at-spi-atk
+at-spi-core
+atk
+atkmm
+atlas-lapack-base
+atomix
+attica-qt
+attica-qt
+attr
+augeas
+autoconf
+autogen
+automake
+avahi
+avidemux-cli
+avogadro
+babl
+baloo
+baloo-widgets
+bamf
+baobab
+bash
+bbswitch
+bc
+bijiben
+bin
+bind-tools P-
+binutils
+bison
+blinken
+blogilo
+bluedevil :-
+bluefish
+bluez
+bluez-libs
+bluez-qt
+bomber
+boost
+boost-libs
+bovo
+brasero
+breeze
+breeze-gtk
+breeze-icons
+brial
+bridge-utils
+brltty
+bullet
+bumblebee
+bzip
+bzr
+c-ares
+ca-certificates
+ca-certificates-cacert
+ca-certificates-mozilla
+ca-certificates-utils
+cabextract
+cairo
+cairo-perl
+cairomm
+caja
+calendarsupport
+cantarell-fonts :-
+cantor
+cargo
+caribou
+cddb-py
+cddlib h-
+cdparanoia
+cdrdao
+cdrkit
+celt
+celt
+ceph
+cfitsio
+cheese
+chemical-mime-data
+chmlib
+chromaprint
+chromium
+cifs-utils
+cinnamon
+cinnamon-control-center
+cinnamon-desktop
+cinnamon-menus
+cinnamon-screensaver
+cinnamon-session
+cinnamon-settings-daemon
+cinnamon-translations
+cjs
+clang
+classpath
+cliquer
+cln
+clucene
+clutter
+clutter-gst
+clutter-gst
+clutter-gtk
+cmake
+cmark
+cogl ++gaba-
+colord
+colord-gtk
+compositeproto
+convertlit
+coreutils
+cracklib
+cronie
+cryptsetup
+ctags
+cuneiform
+cups
+cups-filters
+cups-pk-helper
+curl
+cysignals
+cython
+cython
+damageproto
+db
+dbus
+dbus-glib
+dcadec
+dconf
+dconf-editor
+deepin-account-faces
+deepin-api
+deepin-artwork-themes
+deepin-control-center
+deepin-daemon
+deepin-dbus-factory
+deepin-desktop
+deepin-desktop-base
+deepin-desktop-schemas
+deepin-dock
+deepin-file-manager
+deepin-game
+deepin-grub-themes
+deepin-gtk-theme
+deepin-icon-theme
+deepin-launcher
+deepin-menu
+deepin-metacity
+deepin-movie
+deepin-music
+deepin-mutter
+deepin-nautilus-properties
+deepin-notifications
+deepin-qml-widgets
+deepin-screenshot
+deepin-session-ui
+deepin-social-sharing
+deepin-sound-theme
+deepin-terminal
+deepin-wm
+deepin-wm-switcher
+deluge
+desktop-file-utils
+dev
+devhelp
+device-mapper
+devil
+devtools
+dhclient
+dhcpcd
+dialog :_-
+diffutils
+djvulibre
+dkms +git-
+dleyna-connector-dbus
+dleyna-core
+dleyna-renderer
+dleyna-server
+dmidecode
+dmxproto
+dnsmasq
+dnssec-anchors
+docbook-xml
+docbook-xsl
+docker :-
+dolphin
+dolphin-plugins
+dolphinpart
+dosfstools
+dotconf
+dragon
+driproto
+driproto
+drkonqi
+drumstick
+dvd+rw-tools
+efsprogs
+ebook-tools
+ebtables _-
+ecl
+eclib
+eclipse-common
+eclipse-cpp
+efibootmgr
+efivar
+efl
+elementary
+elfutils
+emacs
+empathy
+enca
+enchant
+eog
+epiphany
+espeak
+evas_generic_loaders
+eventviews
+evince
+evolution
+evolution-data-server
+exempi
+exiv
+exo
+expac
+expat
+expect
+extra-cmake-modules
+faac
+faad
+faenza-icon-theme
+fakeroot
+farstream
+fcgi
+ffmpeg :-
+ffmpeg
+ffmpegthumbnailer
+ffmpegthumbs
+fftw
+file
+file-roller
+filelight
+filesystem
+findutils
+firefox
+five-or-more
+fixesproto
+flac
+flashplugin
+flattr-icon-theme
+flex
+flint
+flintqs :-
+fltk
+fluidsynth
+folks
+fontconfig
+fontsproto
+foomatic-db :-
+foomatic-db-engine :-
+foomatic-db-gutenprint
+foomatic-db-gutenprint-ppds
+four-in-a-row
+frameworkintegration
+freeglut
+freerdp :_-
+freetype
+fribidi
+fuse
+gamin
+gap
+garcon
+gawk
+gc
+gcc-fortran
+gcc-libs-multilib
+gcc-multilib
+gconf
+gcr
+gd
+gdal
+gdb
+gdbm
+gdk-pixbuf
+gdl
+gdm
+geany
+gedit
+gedit-code-assistance
+gegl
+gegl
+geoclue
+geocode-glib
+geoip
+geoip-database
+geos
+gettext
+gfx
+gfan
+gfbgraph
+ghc
+ghostscript
+giflib
+gimp
+git
+gitg
+givaro
+gjs
+glps
+glade
+glew
+glib-networking
+glib-perl
+glib
+glibc
+glibmm
+glpk
+glproto
+glu
+gmime
+gmp
+gmp-ecm
+gnome-
+gnome-backgrounds
+gnome-bluetooth
+gnome-builder
+gnome-calculator
+gnome-calendar
+gnome-characters
+gnome-chess
+gnome-clocks
+gnome-code-assistance
+gnome-color-manager
+gnome-contacts
+gnome-control-center
+gnome-desktop :-
+gnome-devel-docs
+gnome-dictionary
+gnome-disk-utility
+gnome-documents
+gnome-font-viewer
+gnome-getting-started-docs
+gnome-icon-theme
+gnome-icon-theme-symbolic
+gnome-keyring :-
+gnome-klotski
+gnome-logs
+gnome-mahjongg
+gnome-maps
+gnome-menus
+gnome-mime-data
+gnome-mines
+gnome-music
+gnome-nettool
+gnome-nibbles
+gnome-online-accounts
+gnome-online-miners
+gnome-photos
+gnome-robots
+gnome-screenshot
+gnome-session
+gnome-settings-daemon
+gnome-shell
+gnome-shell-extensions
+gnome-sound-recorder
+gnome-sudoku
+gnome-system-log
+gnome-system-monitor
+gnome-taquin
+gnome-terminal
+gnome-tetravex
+gnome-themes-standard
+gnome-tweak-tool
+gnome-user-docs
+gnome-user-share
+gnome-video-effects
+gnome-weather
+gnugo
+gnupg
+gnuplot
+gnurl
+gnutls
+go :-
+go-tools :-
+gobject-introspection
+gobject-introspection-runtime
+gocr
+gom
+goocanvas
+goocanvas
+gperf
+gperftools
+gpgme
+gpgmepp
+gpicview
+gpm
+granatier
+grantlee-qt
+grantlee-qt
+grantleetheme
+graphene
+graphicsmagick
+graphite :-
+graphviz
+grep
+grilo
+grilo-plugins
+groff
+grub :beta-
+gsettings-desktop-schemas
+gsettings-qt
+gsfonts
+gsl
+gsm
+gsoap
+gsound
+gspell
+gssdp
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-base-libs
+gst-plugins-good
+gst-python
+gstreamer
+gstreamer
+gstreamer-bad
+gstreamer-bad-plugins
+gstreamer-base
+gstreamer-base-plugins
+gstreamer-good
+gstreamer-good-plugins
+gstreamer-python
+gstreamer-ugly
+gstreamer-ugly-plugins
+gtk-doc
+gtk-engine-murrine
+gtk-engines
+gtk-update-icon-cache
+gtk-vnc
+gtk-xfce-engine
+gtk
+gtk-perl
+gtk
+gtkglarea
+gtkglext
+gtkimageview
+gtkmm
+gtkmm
+gtksourceview
+gtksourceview
+gtkspell
+gtkspell
+gts
+gucharmap
+guile
+guile
+gupnp
+gupnp-av
+gupnp-dlna
+gutenprint
+gvfs
+gvfs-afc
+gvfs-goa
+gvfs-google
+gvfs-gphoto
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+gwenview
+gzip
+hardening-wrapper
+harfbuzz
+harfbuzz-icu
+hdf _patch-
+hexchat
+hicolor-icon-theme
+hitori
+hspell
+htdig b-
+http-parser
+hunspell
+hwids
+hwloc
+hyphen
+iagno
+iana-etc
+iasl
+icedtea-web
+icon-naming-utils
+icu
+idnkit
+igraph
+ilmbase
+imagemagick
+imake
+iml
+imlib
+imlib
+incidenceeditor
+inetutils
+iniparser
+inkscape
+inputproto
+intel-tbb _-
+intltool
+iproute
+iptables
+iputils dba-
+ipython
+ipython
+ipython-notebook
+iso-codes
+itstool
+jack
+jansson
+jasper
+java-environment-common
+java-runtime-common
+jdk-openjdk u_-
+jemalloc
+jfsutils
+joe
+jre-openjdk u_-
+jre-openjdk-headless u_-
+jre-openjdk u-
+jre-openjdk-headless u-
+js
+js
+jshon
+json-c
+json-glib
+jsoncpp
+julia :-
+jupyter
+kaccounts-integration
+kaccounts-providers
+kactivities
+kactivitymanagerd
+kaddressbook
+kalarm
+kalarmcal
+kalgebra
+kamera
+kanagram
+kapman
+kapptemplate
+karchive
+kate
+katepart
+katomic
+kauth
+kbd
+kblackbox
+kblocks
+kblog
+kbookmarks
+kbounce
+kbproto
+kbreakout
+kbruch
+kcalc
+kcalcore
+kcalutils
+kcharselect
+kcmutils
+kcodecs
+kcolorchooser
+kcompletion
+kconfig
+kconfigwidgets
+kcontacts
+kcoreaddons
+kcrash
+kcron
+kdbusaddons
+kde-applications-meta
+kde-cli-tools
+kde-dev-scripts
+kde-gtk-config
+kde-meta-kdeaccessibility
+kde-meta-kdeadmin
+kde-meta-kdebase
+kde-meta-kdeedu
+kde-meta-kdegames
+kde-meta-kdegraphics
+kde-meta-kdemultimedia
+kde-meta-kdenetwork
+kde-meta-kdepim
+kde-meta-kdesdk
+kde-meta-kdeutils
+kde-meta-kdewebdev
+kde-syndication
+kdeaccessibility-jovie
+kdeaccessibility-kaccessible
+kdeaccessibility-kmag
+kdeaccessibility-kmousetool
+kdeaccessibility-kmouth
+kdeadmin-kuser
+kdebase-kdepasswd
+kdebase-kdialog
+kdebase-keditbookmarks
+kdebase-kfind
+kdebase-konq-plugins
+kdebase-konqueror
+kdebase-lib
+kdebase-runtime
+kdebindings-python-common
+kdebindings-python
+kdebugsettings
+kdeclarative
+kdecoration
+kded
+kdeedu-data
+kdeedu-kalzium
+kdeedu-ktouch
+kdegames-kajongg
+kdegames-kgoldrunner
+kdegames-kigo
+kdegames-kolf
+kdegames-konquest
+kdegames-kreversi
+kdegames-ksirk
+kdegames-ksnakeduel
+kdegames-kspaceduel
+kdegames-ksudoku
+kdegames-kubrick
+kdegames-lskat
+kdegames-palapeli
+kdegraphics-kolourpaint
+kdegraphics-ksaneplugin
+kdegraphics-mobipocket
+kdegraphics-okular
+kdegraphics-strigi-analyzer
+kdegraphics-svgpart
+kdegraphics-thumbnailers
+kdelibs
+kdelibssupport
+kdemultimedia-audiocd-kio
+kdemultimedia-juk
+kdemultimedia-kmix
+kdemultimedia-kscd
+kdemultimedia-mplayerthumbs
+kdenetwork-filesharing
+kdenetwork-kget
+kdenetwork-kopete
+kdenetwork-kppp
+kdenetwork-strigi-analyzers
+kdenetwork-zeroconf-ioslave
+kdenlive
+kdepim-addons
+kdepim-apps-libs
+kdepim-common
+kdepim-runtime
+kdepimlibs
+kdeplasma-addons
+kdesdk-cervisia
+kdesdk-dev-utils
+kdesdk-kcachegrind
+kdesdk-strigi-analyzers
+kdesdk-thumbnailers
+kdesignerplugin
+kdesu
+kdeutils-kdf
+kdeutils-kgpg
+kdeutils-kremotecontrol
+kdeutils-sweeper
+kdevelop
+kdevplatform
+kdewebdev-kfilereplace
+kdewebdev-kimagemapeditor
+kdewebdev-klinkstatus
+kdewebdev-kommander
+kdewebkit
+kdgantt
+kdiamond
+kdnssd
+kdoctools
+kemoticons
+keyutils
+kfilemetadata
+kfloppy
+kfourinline
+kgamma
+kgeography
+kglobalaccel
+kguiaddons
+khangman
+khelpcenter
+kholidays
+khotkeys
+khtml
+kin
+kiconthemes
+kidentitymanagement
+kidletime
+kig
+killbots
+kimap
+kinfocenter
+kinit
+kio
+kio-extras
+kio-pim
+kiriki
+kitemmodels
+kitemviews
+kiten
+kjobwidgets
+kjs
+kjsembed
+kjumpingcube
+kldap
+kleopatra
+klettres
+klickety
+klines
+kmahjongg
+kmail
+kmailtransport
+kmbox
+kmenuedit
+kmime
+kmines
+kmod
+kmplot
+knavalbattle
+knetwalk
+knewstuff
+knotes
+knotifications
+knotifyconfig
+kollision
+kompare
+konsole
+konsolekalendar
+kontact
+kontactinterface
+konversation
+korganizer
+kpackage
+kparts
+kpatience
+kpeople
+kpimtextedit
+kplotting
+kpty
+kqtquickcharts
+krb
+krdc
+krfb
+kross
+kruler
+krunner
+kscreen
+kscreenlocker
+kservice
+kshisen
+ksquares
+ksshaskpass
+kstars
+ksysguard
+ksystemlog
+kteatime
+ktexteditor
+ktextwidgets
+ktimer
+ktnef
+ktuberling
+kturtle
+kuiserver
+kunitconversion
+kwallet
+kwallet-pam
+kwalletmanager
+kwayland
+kwayland-integration
+kwebkitpart
+kwidgetsaddons
+kwin
+kwindowsystem
+kwordquiz
+kwrite
+kwrited
+kxmlgui
+kxmlrpcclient
+ladspa
+lame
+lcalc
+lcms
+lcms
+ldb
+ldns
+leafpad
+leptonica
+less
+leveldb
+lib-acl
+lib-alsa-lib
+lib-atk
+lib-attr
+lib-bzip
+lib-cairo
+lib-efsprogs
+lib-elfutils
+lib-expat
+lib-flac
+lib-fontconfig
+lib-freetype
+lib-gcc-libs
+lib-gdk-pixbuf
+lib-gettext
+lib-glib
+lib-glibc
+lib-glu
+lib-gmp
+lib-gnutls
+lib-gtk
+lib-harfbuzz
+lib-icu
+lib-json-c
+lib-keyutils
+lib-krb
+lib-lcms
+lib-libasyncns
+lib-libcap
+lib-libcups
+lib-libdatrie
+lib-libdbus
+lib-libdrm
+lib-libffi
+lib-libgcrypt
+lib-libgpg-error
+lib-libice
+lib-libidn
+lib-libjpeg-turbo
+lib-libldap
+lib-libmng
+lib-libnl
+lib-libogg
+lib-libpcap
+lib-libpciaccess
+lib-libpng
+lib-libpulse
+lib-libsm
+lib-libsndfile
+lib-libtasn
+lib-libthai
+lib-libtiff
+lib-libtxc_dxtn
+lib-libusb
+lib-libvorbis
+lib-libx
+lib-libxau
+lib-libxcb
+lib-libxcomposite
+lib-libxcursor
+lib-libxdamage
+lib-libxdmcp
+lib-libxext
+lib-libxfixes
+lib-libxft
+lib-libxi
+lib-libxinerama
+lib-libxml
+lib-libxrandr
+lib-libxrender
+lib-libxshmfence
+lib-libxss
+lib-libxtst
+lib-libxv
+lib-libxxfvm
+lib-llvm-libs
+lib-mesa
+lib-mesa-libgl
+lib-ncurses
+lib-nettle
+lib-openssl :g-
+lib-p-kit
+lib-pango
+lib-pcre
+lib-pixman
+lib-qt
+lib-qtcurve-gtk
+lib-qtcurve-qt
+lib-qtcurve-utils
+lib-readline
+lib-sdl
+lib-sdl_image
+lib-sqlite
+lib-systemd
+lib-util-linux
+lib-wayland
+lib-xz
+lib-zlib
+libabw
+libaccounts-glib
+libaccounts-qt
+libaio
+libakonadi-qt
+libanjuta
+libao
+libarchive
+libart-lgpl
+libass
+libassuan
+libastro
+libasyncns
+libatasmart
+libatomic_ops
+libavc
+libbluray
+libbsd
+libburn pl-
+libcaca beta-
+libcacard
+libcanberra
+libcanberra-pulse
+libcap
+libcap-ng
+libcdaudio
+libcddb
+libcdio
+libcdio-paranoia ++-
+libcdr
+libchamplain
+libcmis
+libcroco
+libcryptui
+libcue
+libcups
+libdaemon
+libdatrie
+libdbus
+libdbusmenu-qt +-
+libdbusmenu-qt +-
+libdc
+libdca
+libdiscid
+libdmapsharing
+libdmtx
+libdmx
+libdrm
+libdui
+libdv
+libdvbpsi :-
+libdvdcss
+libdvdnav
+libdvdread
+libe-book
+libebml
+libedit _-
+libelf
+libepoxy
+libetonyek
+libevdev
+libevent
+libexif
+libexttextcat
+libfbclient
+libffi
+libfm
+libfm-extra
+libfm-gtk
+libfontenc
+libfplll
+libfreexl
+libftdi-compat
+libgadu
+libgames-support
+libgap
+libgcrypt
+libgda
+libgdata
+libgdm
+libgee
+libgeotiff
+libgexiv
+libgit :-
+libgit-glib
+libglade
+libglvnd
+libgme
+libgnome-keyring
+libgnomecanvas
+libgnomekbd
+libgpg-error
+libgphoto
+libgravatar
+libgsf
+libgsystem
+libgtop
+libgudev
+libgusb
+libgweather
+libgxps
+libibus
+libical
+libice
+libidtag b-
+libidl
+libidn
+libiec
+libieee
+libimobiledevice
+libindi
+libinput
+libiptcdata
+libirman
+libisoburn
+libisofs
+libixion
+libjpeg-turbo
+libkactivities
+libkate
+libkcddb
+libkcompactdisc
+libkdcraw
+libkdeaccessibilityclient
+libkdegames
+libkdegames
+libkdepim
+libkeduvocdocument
+libkexiv
+libkexiv_
+libkeybinder
+libkeybinder
+libkgapi
+libkipi
+libkleo
+libkmahjongg
+libkolab
+libkolabxml
+libkomparediff
+libksane
+libksba
+libkscreen
+libkscreen
+libksieve
+libksysguard
+libktnef
+libktorrent
+liblangtag
+libldap
+liblightdm-qt :-
+liblouis
+liblqr
+liblrdf
+libmad b-
+libmariadbclient
+libmatekbd
+libmatemixer
+libmateweather
+libmatroska
+libmbim
+libmediaart
+libmediainfo
+libmikmod
+libmm-glib
+libmms
+libmng
+libmnl
+libmodplug
+libmpv
+libmpc
+libmpcdec :+r-
+libmpd
+libmpeg
+libmspub
+libmtp
+libmusicbrainz
+libmusicbrainz
+libmwaw
+libnautilus-extension
+libndp
+libnewt
+libnfs
+libnftnl
+libnice
+libnl
+libnm-glib
+libnotify
+libnova
+liboauth
+libodfgen
+libofa
+libogg
+libomxil-bellagio
+liborcus
+libosinfo
+libotf
+libotr
+libpagemaker
+libpaper
+libpcap
+libpciaccess
+libpeas
+libpgm
+libphonenumber
+libpipeline
+libplist
+libpng
+libproxy
+libpst
+libpulse
+libpurple
+libpwquality
+libqalculate
+libqmi
+libquvi
+libquvi-scripts
+libqzeitgeist
+libraw
+libraw
+libreoffice-fresh
+librevenge
+librsvg :-
+libsamplerate
+libsasl
+libseccomp
+libsecret
+libshout :-
+libsidplay
+libsigc++
+libsignon-glib
+libsigsegv
+libsm
+libsndfile
+libsodium
+libsoup
+libsoxr
+libspatialite a-
+libspectre
+libspiro :-
+libsrtp :-
+libssh
+libssh
+libstdc++
+libstemmer +-
+libsynctex
+libsystemd
+libtar
+libtasn
+libteam
+libtermkey
+libthai
+libtheora
+libtiff
+libtiger
+libtirpc
+libtool
+libtorrent-rasterbar :-
+libtracker-sparql
+libtxc_dxtn
+libunique
+libunistring
+libunwind
+libupnp
+libusb
+libusb-compat
+libusbmuxd
+libuser
+libutempter
+libutil-linux
+libuv
+libva
+libvdpau
+libvirt
+libvirt-glib
+libvirt-python
+libvisio
+libvisual
+libvncserver
+libvoikko
+libvorbis
+libvpx
+libvterm gitca-
+libwacom
+libwbclient
+libwebp
+libwmf
+libwnck
+libwnck
+libwpd
+libwpg
+libwps
+libx
+libx :-
+libxau
+libxaw
+libxcb
+libxcomposite
+libxcursor
+libxdamage
+libxdmcp
+libxext
+libxfceui
+libxfceutil
+libxfixes
+libxfont
+libxft
+libxi
+libxinerama
+libxkbcommon
+libxkbcommon-x
+libxkbfile
+libxklavier
+libxml ++gdbda-
+libxmu
+libxp
+libxpm
+libxrandr
+libxrender
+libxres
+libxshmfence
+libxslt
+libxss
+libxt
+libxtst
+libxv
+libxvmc
+libxxfdga
+libxxfvm
+libyaml
+libytnef
+libzapojit
+libzen
+libzip
+licenses
+lightdm :-
+lightsoff
+linbox
+links
+linux
+linux-api-headers
+linux-docs
+linux-firmware debd-
+linux-headers
+lirc :a-
+lldb
+llvm-libs
+lm_sensors
+lmdb
+logrotate
+lokalize
+love
+lpsolve
+lrcalc
+lrs
+lsb-release
+lua
+lua
+lua-lpeg
+lua-messagepack
+lua
+lua-bitop
+lua-expat
+lua-lpeg
+lua-luajson
+lua-socket
+luajit
+lvm
+lxappearance
+lxappearance-obconf
+lxde-common
+lxde-icon-theme
+lxdm
+lxinput
+lxlauncher
+lxmenu-data
+lxmusic
+lxpanel
+lxrandr
+lxsession :-
+lxtask
+lxterminal
+lynx
+lz
+lzo
+mn-db
+mn-lib
+m
+mri
+mrie
+mailcommon
+mailimporter
+make
+man-db
+man-pages
+marble
+marble-data
+marco
+mari
+mariadb
+mariadb-clients
+mate-backgrounds
+mate-common
+mate-control-center
+mate-desktop
+mate-icon-theme
+mate-menus
+mate-notification-daemon
+mate-panel
+mate-polkit
+mate-session-manager
+mate-settings-daemon
+mate-themes
+mate-user-guide
+mathjax
+maxima-ecl
+mdadm
+media-player-info
+mediainfo
+menu-cache
+mercurial
+mesa
+mesa-demos
+mesa-libgl
+messagelib
+milou
+mime-types
+minuet
+mjpegtools
+mkinitcpio
+mkinitcpio-busybox
+mlt
+mobile-broadband-provider-info
+mod_dnssd
+modemmanager
+modemmanager-qt
+mousepad
+mousetweaks
+mozilla-common
+mpfi
+mpfr
+mpg
+mplayer
+msgpack-c
+mtdev
+muffin
+musicbrainz
+mutagen
+mutter
+namcap
+nano
+nasm
+nautilus
+nautilus-sendto
+nauty r-
+ncurses
+nemo
+neon
+net-snmp
+netbeans
+netcdf
+netcf
+netctl
+netpbm
+nettle
+network-manager-applet
+networkmanager
+networkmanager-qt
+newt-syrup
+nm-connection-editor
+nodejs
+nodejs-grunt-cli
+noto-fonts
+npm
+npth
+nspr
+nss
+ntl
+ntp p-
+numactl
+nvidia-dkms
+nvidia-utils
+ocaml
+ocl-icd
+octave
+okteta
+onboard
+openal
+openbabel
+openbox
+openbsd-netcat _-
+opencore-amr
+opendesktop-fonts
+openexr
+openjpeg
+openjpeg
+openmpi
+openresolv
+openslp
+openssh p-
+openssl g-
+optipng
+opus
+orage
+orc
+orca
+oxygen
+oxygen-icons :-
+p-kit
+pzip
+packagekit
+pacman
+pacman-mirrorlist
+palp
+pam
+pambase
+pandoc
+pango
+pango-perl
+pangomm
+pangox-compat
+pari-galdata
+pari-sage gbcc-
+pari-seadata-small
+parley
+parted
+pastebinit
+patch
+patchelf
+pciutils
+pcmanfm
+pcmciautils
+pcre
+pcre
+pelican
+perl
+perl-algorithm-diff
+perl-archive-extract
+perl-clone
+perl-dbi
+perl-error
+perl-exporter-tiny
+perl-extutils-depends
+perl-extutils-pkgconfig
+perl-file-basedir
+perl-goo-canvas
+perl-gtk-imageview
+perl-html-parser
+perl-html-tagset
+perl-inc-latest
+perl-io-string
+perl-io-stringy
+perl-ipc-system-simple
+perl-list-moreutils
+perl-locale-gettext
+perl-log-logperl
+perl-module-build
+perl-module-pluggable
+perl-proc-processtable
+perl-readonly
+perl-sgmls ii-
+perl-spiffy
+perl-test-base
+perl-test-differences
+perl-text-diff
+perl-timedate
+perl-try-tiny
+perl-uri
+perl-xml-libxml
+perl-xml-namespacesupport
+perl-xml-parser
+perl-xml-sax
+perl-xml-sax-base
+perl-xml-sax-expat
+perl-xml-simple
+phonon-qt
+phonon-qt-gstreamer
+phonon-qt
+phonon-qt-gstreamer
+physfs
+picmi
+pidgin
+pimcommon
+pinentry
+pixman
+pkg-config
+pkgbuild-introspection
+planarity
+plasma-desktop
+plasma-framework
+plasma-integration
+plasma-mediacenter
+plasma-meta
+plasma-nm
+plasma-pa
+plasma-sdk
+plasma-wayland-session
+plasma-workspace
+plasma-workspace-wallpapers
+polari
+polkit
+polkit-gnome
+polkit-kde-agent
+polkit-qt +git-
+polkit-qt +git-
+poppler
+poppler-glib
+poppler-qt
+poppler-qt
+popt
+portaudio _-
+portmidi
+postgresql-libs
+potrace
+powerdevil
+poxml
+ppl
+ppp
+presentproto
+primus
+print-manager
+printproto
+prison
+prison-frameworks
+procps-ng
+proj
+protobuf
+protobuf-c
+psmisc
+pulseaudio
+pulseaudio-alsa
+purpose
+pyalpm
+pygobject-devel
+pygobject-devel
+pygtk
+pynac
+pyqt-common
+pyqt-common
+python
+python-astroid
+python-atspi
+python-babel
+python-beaker
+python-beautifulsoup
+python-blinker
+python-cairo
+python-chardet
+python-cycler
+python-dateutil
+python-dbus
+python-dbus-common
+python-decorator
+python-distutils-extra
+python-docopt
+python-docutils
+python-et-xmlfile
+python-feedgenerator
+python-gmpy
+python-gobject
+python-gtkspellcheck
+python-imagesize
+python-ipykernel
+python-jdcal
+python-jedi
+python-jinja
+python-jsonschema
+python-lazy-object-proxy
+python-lxml
+python-mako
+python-markdown
+python-markupsafe
+python-matplotlib
+python-mistune
+python-mock
+python-mpmath
+python-numexpr
+python-numpy
+python-openpyxl
+python-packaging
+python-pandas
+python-path
+python-pbr
+python-pexpect
+python-pip
+python-psutil
+python-ptyprocess
+python-py
+python-pyelftools
+python-pyenchant
+python-pyflakes
+python-pygments
+python-pylint
+python-pyparsing
+python-pypeg
+python-pyqt
+python-pyqt
+python-pytables
+python-pytest
+python-pytest-runner
+python-pytz
+python-pyzmq
+python-requests
+python-rope _-
+python-scipy
+python-setuptools :-
+python-sip
+python-six
+python-snowballstemmer
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
+python-sympy
+python-unidecode
+python-urllib
+python-wrapt
+python-xdg
+python-yaml
+python
+python-apptools
+python-astroid
+python-atspi
+python-babel
+python-backports
+python-backportsshutil_get_terminal_size
+python-beaker
+python-bottle
+python-cairo
+python-cffi
+python-chardet
+python-crypto
+python-cryptography
+python-cssselect
+python-cvxopt
+python-cycler
+python-dateutil
+python-dbus
+python-decorator
+python-deepin-gsettings
+python-deepin-storm
+python-deepin-ui
+python-deepin-utils
+python-deepin-vte
+python-docutils
+python-enum
+python-envisage
+python-et-xmlfile
+python-funcsigs
+python-gmpy
+python-gobject
+python-gobject
+python-idna
+python-igraph post-
+python-imagesize
+python-ipaddr
+python-ipaddress
+python-ipy
+python-ipykernel
+python-jdcal
+python-jedi
+python-jinja
+python-jswebkit
+python-keybinder
+python-lazy-object-proxy
+python-lxml
+python-mcrypto
+python-magic
+python-mako
+python-markupsafe
+python-matplotlib
+python-mock
+python-mpd
+python-mpmath
+python-networkx
+python-numexpr
+python-numpy
+python-oauthlib
+python-opengl
+python-openpyxl
+python-packaging
+python-pam
+python-pandas
+python-path
+python-pathlib
+python-pbr
+python-peewee
+python-pexpect
+python-pillow
+python-pip
+python-ply
+python-psutil
+python-ptyprocess
+python-py
+python-pyasn
+python-pycparser
+python-pycurl
+python-pyflakes
+python-pygame
+python-pygments
+python-pyinotify
+python-pylint
+python-pyopenssl
+python-pyparsing
+python-pyqt
+python-pyqt
+python-pyquery
+python-pytest
+python-pytest-runner
+python-pytz
+python-pyzmq
+python-requests
+python-requests-oauthlib
+python-rope
+python-rpy
+python-scipy
+python-setuptools :-
+python-singledispatch
+python-sip
+python-six
+python-snowballstemmer
+python-sphinx
+python-sphinx-alabaster-theme
+python-sphinx_rtd_theme
+python-sympy
+python-traits
+python-twisted
+python-urllib
+python-wnck
+python-wrapt
+python-xcffib
+python-xdg
+python-xlib
+python-xpybutil
+python-zope-interface
+pywebkitgtk
+qbittorrent
+qca-qt
+qca-qt
+qd
+qemu
+qhull
+qimageblitz
+qjson
+qoauth
+qpdf
+qqwing
+qrencode
+qscintilla-qt
+qt
+qt-base
+qt-declarative
+qt-graphicaleffects
+qt-gstreamer
+qt-imageformats
+qt-location
+qt-multimedia
+qt-quickcontrols
+qt-script
+qt-sensors
+qt-svg
+qt-tools
+qt-translations
+qt-wayland
+qt-webchannel
+qt-webkit
+qt-xextras
+qt-xmlpatterns
+qtav
+qtchooser
+qtcurve-gtk git-
+qtcurve-qt git-
+qtcurve-qt git-
+qtcurve-utils git-
+qtwebkit
+quadrapassel
+quazip-qt
+qupzilla
+qutebrowser
+r
+randrproto
+rankwidth
+raptor
+rarian
+rasqal :-
+readline
+recode
+recordproto
+redland :-
+reiserfsprogs
+rekonq
+renderproto
+resourceproto
+rest
+rfkill
+ristretto
+rocs
+rsync
+rtkit
+rtmpdump :rfad-
+rubiks
+ruby
+ruby-rack
+run-parts
+rust :-
+rygel
+s-nail
+sage-data-combinatorial_designs
+sage-data-conway_polynomials
+sage-data-elliptic_curves
+sage-data-graphs
+sage-data-polytopes_db
+sagemath
+samba
+sane
+sbc
+schroedinger
+scim
+scrnsaverproto
+sddm
+sddm-kcm
+sdl
+sdl
+sdl_image
+sdl_image
+sdl_mixer
+sdl_ttf
+seabios
+seahorse
+sed
+semver
+serf
+shadow
+shared-color-targets
+shared-mime-info
+signon-kwallet-extension
+signon-plugin-oauth
+signon-ui +-
+signond
+simple-scan
+singular p-
+sip
+slang
+smbclient
+smpeg
+snappy
+socat
+solid
+sonata
+sonnet
+sound-theme-freedesktop
+soundtouch
+source-highlight
+spandsp
+spectacle
+speech-dispatcher
+speex
+speexdsp
+spice
+spice-glib
+spice-gtk
+spice-protocol
+spyder
+spyder
+sqlite
+squashfs-tools
+startdde
+startup-notification
+steam
+step
+strigi
+subversion
+sudo
+suitesparse
+supertux
+sushi
+swell-foop
+swig
+sympow
+sysfsutils
+systemd
+systemd-sysvcompat
+systemsettings
+tlib
+tachyon
+taglib
+tali
+talloc
+tar
+tcl
+tdb
+telepathy-accounts-signon
+telepathy-farstream
+telepathy-glib
+telepathy-idle
+telepathy-kde-accounts-kcm
+telepathy-kde-approver
+telepathy-kde-auth-handler
+telepathy-kde-call-ui
+telepathy-kde-common-internals
+telepathy-kde-contact-list
+telepathy-kde-contact-runner
+telepathy-kde-desktop-applets
+telepathy-kde-filetransfer-handler
+telepathy-kde-integration-module
+telepathy-kde-meta
+telepathy-kde-send-file
+telepathy-kde-text-ui
+telepathy-logger
+telepathy-logger-qt
+telepathy-mission-control
+telepathy-qt
+telepathy-qt
+tesseract
+tevent
+texinfo
+texlive-bin
+texlive-core
+thin-provisioning-tools
+threadweaver
+thunar
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+thunderbird
+tidy
+timidity++
+totem
+totem-plparser
+tracker
+tree
+tslib
+ttf-anonymous-pro
+ttf-arphic-ukai
+ttf-arphic-uming
+ttf-baekmuk
+ttf-bitstream-vera
+ttf-cheapskate
+ttf-croscore
+ttf-dejavu
+ttf-droid
+ttf-fira-mono :-
+ttf-fira-sans :-
+ttf-freebanglafont
+ttf-freefont
+ttf-gentium
+ttf-hack
+ttf-hanazono
+ttf-hannom
+ttf-inconsolata d-
+ttf-indic-otf
+ttf-ionicons
+ttf-junicode
+ttf-khmer
+ttf-liberation
+ttf-linux-libertine
+ttf-linux-libertine-g
+ttf-mph-b-damase dfsg-
+ttf-oxygen :-
+ttf-sazanami
+ttf-symbola
+ttf-tibetan-machine
+ttf-tlwg
+ttf-ubraille
+ttf-ubuntu-font-family
+tumbler
+tzdata d-
+udisks
+umbrello
+unibilium
+unixodbc
+unpaper
+unrar :-
+unzip
+upower
+urlgrabber
+usbmuxd
+usbredir
+usbutils
+user-manager
+util-linux
+vl-utils
+vala
+valgrind
+vde
+vi :-
+vidstab
+videoproto
+vile _q-
+vinagre
+vino
+virt-install
+virt-manager
+virtualbox
+virtualbox-host-dkms
+virtualgl
+vlc
+vte
+vte-common
+vte
+vtk
+vtk
+warzone
+wavpack
+wayland
+wayland-protocols
+wcslib
+webkitgtk
+webkitgtk
+webkitgtk
+webrtc-audio-processing
+wget
+which
+whois
+wildmidi
+wine
+wine-mono
+winetricks
+wkhtmltopdf
+wmctrl
+wpa_supplicant :-
+wxgtk
+x
+xalan-c :-
+xapian-core :-
+xbitmaps
+xcb-proto
+xcb-util
+xcb-util-cursor
+xcb-util-image
+xcb-util-keysyms
+xcb-util-renderutil
+xcb-util-wm
+xclip git-
+xcurpng
+xdg-user-dirs
+xdg-user-dirs-gtk
+xdg-utils
+xdotool
+xerces-c
+xextproto
+xf-input-evdev
+xf-input-joystick
+xf-input-keyboard
+xf-input-libinput
+xf-input-mouse
+xf-input-synaptics
+xf-input-vmmouse
+xf-input-void
+xf-video-amdgpu
+xf-video-ark
+xf-video-ati :-
+xf-video-dummy
+xf-video-fbdev
+xf-video-glint
+xf-video-i
+xf-video-intel :++gaef-
+xf-video-mach
+xf-video-neomagic
+xf-video-nv
+xf-video-openchrome
+xf-video-r
+xf-video-savage
+xf-video-siliconmotion
+xf-video-sis
+xf-video-tdfx
+xf-video-trident
+xf-video-vesa
+xf-video-vmware
+xf-video-voodoo
+xfdgaproto
+xfdriproto
+xfvidmodeproto
+xfburn
+xfce-appfinder
+xfce-artwork a_git-
+xfce-battery-plugin
+xfce-clipman-plugin
+xfce-cpufreq-plugin
+xfce-cpugraph-plugin
+xfce-datetime-plugin
+xfce-dict
+xfce-diskperf-plugin
+xfce-eyes-plugin
+xfce-fsguard-plugin
+xfce-genmon-plugin
+xfce-mailwatch-plugin
+xfce-mixer
+xfce-mount-plugin
+xfce-mpc-plugin
+xfce-netload-plugin
+xfce-notes-plugin
+xfce-notifyd
+xfce-panel
+xfce-power-manager
+xfce-screenshooter
+xfce-sensors-plugin
+xfce-session
+xfce-settings
+xfce-smartbookmark-plugin
+xfce-systemload-plugin
+xfce-taskmanager
+xfce-terminal
+xfce-time-out-plugin
+xfce-timer-plugin
+xfce-verve-plugin
+xfce-wavelan-plugin
+xfce-weather-plugin
+xfce-whiskermenu-plugin
+xfce-xkb-plugin
+xfconf
+xfdesktop
+xfsprogs
+xfwm
+xfwm-themes
+xineramaproto
+xkeyboard-config
+xmlto
+xmms DrO_ogecebaf-
+xorg-bdftopcf
+xorg-docs
+xorg-font-util
+xorg-font-utils
+xorg-fonts-dpi
+xorg-fonts-dpi
+xorg-fonts-alias
+xorg-fonts-encodings
+xorg-fonts-misc
+xorg-iceauth
+xorg-luit
+xorg-mkfontdir
+xorg-mkfontscale
+xorg-server
+xorg-server-common
+xorg-server-devel
+xorg-server-xdmx
+xorg-server-xephyr
+xorg-server-xnest
+xorg-server-xvfb
+xorg-server-xwayland
+xorg-sessreg
+xorg-setxkbmap
+xorg-smproxy
+xorg-util-macros
+xorg-xperf
+xorg-xauth
+xorg-xbacklight
+xorg-xcmsdb
+xorg-xcursorgen
+xorg-xdpyinfo
+xorg-xdriinfo
+xorg-xev
+xorg-xgamma
+xorg-xhost
+xorg-xinit
+xorg-xinput
+xorg-xkbcomp
+xorg-xkbevd
+xorg-xkbutils
+xorg-xkill
+xorg-xlsatoms
+xorg-xlsclients
+xorg-xmessage
+xorg-xmodmap
+xorg-xpr
+xorg-xprop
+xorg-xrandr
+xorg-xrdb
+xorg-xrefresh
+xorg-xset
+xorg-xsetroot
+xorg-xvinfo
+xorg-xwd
+xorg-xwininfo
+xorg-xwud
+xproto
+xsane
+xsane-gimp
+xterm
+xtrans
+xvidcore
+xz
+yajl
+yakuake
+yasm
+yelp
+yelp-tools
+yelp-xsl
+zeitgeist
+zenity
+zeromq
+zile
+zip
+zita-alsa-pcmi
+zita-resampler
+zlib
+zn_poly
+zsh
+zvbi
+zziplib
