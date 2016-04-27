@@ -1,10 +1,8 @@
 *.7z
 *.zip
 *.rar
-*.tar.bz2
-*.tar.gz
-*.tar.lzma
-*.tar.lz
+*.tar
+*.tar*
 *.xz
 *.sign
 *.part
